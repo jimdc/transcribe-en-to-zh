@@ -12,8 +12,14 @@ const options = {
 
 rp(options)
   .then(($) => {
-    let chineseTable = $('table.wikitable').first();
-    console.log(chineseTable.html());
+    let chineseTable = $('table.wikitable > tbody').first();
+    chineseTable.children().each(function(index, element) {
+      if (element.name === "tr") {
+        console.log(element);       
+      } else {
+        console.log(`I expected tr but got ${element.name}`);
+      }
+    });
   })
   .catch((err) => {
     console.log(err);
