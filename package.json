@@ -1,0 +1,34 @@
+{
+  "name": "transcribe-en-to-zh",
+  "version": "1.0.0",
+  "description": "transcribe into Chinese characters",
+  "main": "transcribe.js",
+  "dependencies": {
+    "@types/node": "^9.6.2",
+    "cheerio": "^1.0.0-rc.2",
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^4.0.2",
+    "natural": "^0.5.6",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2",
+    "typescript": "^2.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimdc/transcribe-en-to-zh.git"
+  },
+  "keywords": [
+    "transcription",
+    "phonetics"
+  ],
+  "author": "James Carroll",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jimdc/transcribe-en-to-zh/issues"
+  },
+  "homepage": "https://github.com/jimdc/transcribe-en-to-zh#readme"
+}

@@ -4,15 +4,15 @@ const stemmer = natural.PorterStemmer;
 const metaphone = natural.Metaphone;
 const chineseSound = require('./ChineseSound');
 
-const myArgs = process.argv.slice(2);
-const arg1 = myArgs[0];
+const myArgs: string[] = process.argv.slice(2);
+const arg1: string = myArgs[0];
 
 if (arg1 === undefined) {
   console.log('Enter the word you want to transcribe as an argument.');
   process.exit(1);
 } else if (arg1 === '--help' || arg1 === '--h') {
-  const absolutePathToMe = process.argv[1];
-  const relativePathToMe = absolutePathToMe.substring(absolutePathToMe.lastIndexOf('/')+1);
+  const absolutePathToMe: string = process.argv[1];
+  const relativePathToMe: string = absolutePathToMe.substring(absolutePathToMe.lastIndexOf('/')+1);
 
   console.log(`For example: node ${relativePathToMe} \"dearest doll\"`);
   process.exit(0);
@@ -21,11 +21,11 @@ if (arg1 === undefined) {
 console.log(`Raw input was: ${arg1}`);
 
 metaphone.attach();
-const phonemes = arg1.tokenizeAndPhoneticize();
+const phonemes: string[] = arg1.tokenizeAndPhoneticize();
 phonemes.forEach(function(value, key, phonemes) {
-    const transcribed = chineseSound.toChineseSounds(value);
-    let characters = [];
-    let romans = [];
+    const transcribed: ChineseSound[] = chineseSound.toChineseSounds(value);
+    let characters: string[] = [];
+    let romans: string[] = [];
 
     transcribed.forEach(function(value, key, transcribed) {
       if (value !== null) {
@@ -34,7 +34,7 @@ phonemes.forEach(function(value, key, phonemes) {
       }
     });
 
-    const transcribed_readable = characters.join("") + " " + romans.join("");
+    const transcribed_readable: string = characters.join("") + " " + romans.join("");
     console.log(`${value} => ${transcribed_readable}`);
 });
 
