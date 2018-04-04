@@ -11,11 +11,13 @@
     "natural": "^0.5.6",
     "request": "^2.85.0",
     "request-promise": "^4.2.2",
-    "typescript": "^2.8.1"
+    "typescript": "^2.8.1",
+    "typescript-eslint-parser": "^14.0.0"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "gulp"
+    "test": "gulp",
+    "lint": "eslint src --ext ts"
   },
   "repository": {
     "type": "git",
