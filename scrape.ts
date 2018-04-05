@@ -30,8 +30,8 @@ rp(options)
         } else if (rowIndex === 1) {
           initials.push(textNoNewline);
         } else {
-          soundObjects.push(new ChineseSound(initials[columnIndex] 
-,           finals[rowIndex-2] //First row is title, second row is initials
+          soundObjects.push(new ChineseSound(initials[columnIndex+1] 
+,           finals[rowIndex-2] //First row is title, second are initials
 ,           textNoNewline, pinyin(textNoNewline)));
 
           soundSentence.push(textNoNewline);
