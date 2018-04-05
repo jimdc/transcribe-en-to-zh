@@ -3,6 +3,7 @@ const tokenizer = new natural.WordTokenizer();
 const stemmer = natural.PorterStemmer;
 const metaphone = natural.Metaphone;
 const chineseSound = require('./ChineseSound');
+const pinyin = require('./pinyin');
 
 const myArgs: string[] = process.argv.slice(2);
 const arg1: string = myArgs[0];
@@ -34,7 +35,9 @@ phonemes.forEach(function(value, key, phonemes) {
       }
     });
 
-    const transcribed_readable: string = characters.join("") + " " + romans.join("");
+    const transcribed_readable: string = characters.join("") + " " 
+      + pinyin.clean(romans.join(""));
+
     console.log(`${value} => ${transcribed_readable}`);
 });
 

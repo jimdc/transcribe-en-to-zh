@@ -20,12 +20,12 @@ const _is: ChineseSound = new ChineseSound('ɪ', 's', '西', 'xī');
 const __t: ChineseSound = new ChineseSound(null, 't', '特', 'tè');
 const _da: ChineseSound = new ChineseSound('d', 'ɒ', '多', 'duō');
 
-exports.toChineseSounds = function in_zh(token): ChineseSound[] {
+exports.toChineseSounds = function in_zh(token: string): ChineseSound[] {
   let result: ChineseSound[] = [];
   for(let i: number = 0; i < token.length; i++) {
     //Yeah, this is per-token not per-phoneme. Something to fix.
     const is_initial: boolean = (i == 0);
-    const is_final: boolean = (i == token.length);
+    const is_final: boolean = (i == token.length-1);
     switch(token.charAt(i)) {
       case "T":
         if (is_initial) result.push(_di);
@@ -45,3 +45,4 @@ exports.toChineseSounds = function in_zh(token): ChineseSound[] {
   } 
   return result;
 };
+
