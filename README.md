@@ -10,8 +10,8 @@ Right now I run `transcribe-en-to-zh` on [ts-node](https://github.com/TypeStrong
 ```
 > ts-node transcribe "dearest doll"
 Raw input was: dearest doll
-TRST => 迪尔西特 díěrxītè
-TL => 迪尔 díěr
+TRST => 迪尔西特 dí'ěrxītè
+TL => 迪尔 dí'ěr
 ```
 
 It is not necessary on a default install, but you can build the transcription rule `JSON` file by running
