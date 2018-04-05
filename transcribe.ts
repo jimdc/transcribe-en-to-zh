@@ -35,9 +35,7 @@ phonemes.forEach(function(value, key, phonemes) {
       }
     });
 
-    const transcribed_readable: string = characters.join("") + " " 
-      + pinyin.clean(romans.join(""));
-
+    const transcribed_readable: string = characters.join("") + " " + pinyin.join(romans, "");
     console.log(`${value} => ${transcribed_readable}`);
 });
 
