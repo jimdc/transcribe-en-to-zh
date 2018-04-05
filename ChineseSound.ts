@@ -46,3 +46,4 @@ exports.toChineseSounds = function in_zh(token: string): ChineseSound[] {
   return result;
 };
 
+export default ChineseSound;

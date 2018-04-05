@@ -18,3 +18,28 @@ It is not necessary on a default install, but you can build the transcription ru
 ```
 ts-node scrape.ts
 ```
+which writes rules in `zh-rules.json` like
+```
+[
+  {
+    "initialSound": "b",
+    "finalSound": "-",
+    "zi": "布",
+    "pinyin": [
+      [
+        "bù"
+      ]
+    ]
+  },
+  {
+    "initialSound": "p",
+    "finalSound": "-",
+    "zi": "普",
+    "pinyin": [
+      [
+        "pǔ"
+      ]
+    ]
+  }
+]
+```
