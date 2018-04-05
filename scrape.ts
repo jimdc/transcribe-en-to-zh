@@ -10,12 +10,14 @@ const options = {
 
 rp(options)
   .then(($) => {
-    let chineseTable = $('table.wikitable > tbody').first();
-    chineseTable.children().each(function(index, element) {
-      if (element.name === "tr") {
-        console.log(element);       
+    let chineseTable = $('table.wikitable').first().find('>tbody>tr>td');
+    let soundSentence: string[] = [];
+    chineseTable.each(function(index, element) {
+      if (index%27 === 0) {
+        console.log(soundSentence.join());
+        soundSentence = [];
       } else {
-        console.log(`I expected tr but got ${element.name}`);
+        soundSentence.push($(this).text().trim());
       }
     });
   })
