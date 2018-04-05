@@ -30,9 +30,15 @@ rp(options)
         } else if (rowIndex === 1) {
           initials.push(textNoNewline);
         } else {
-          soundObjects.push(new ChineseSound(initials[columnIndex+1] 
+          const rowspan: number = $(this).attr("rowspan"); // e.g. 南 rowspan2: nʌn,nʌŋ 
+          const colspan: number = $(this).attr("colspan"); // e.g. 夫/弗 colspan3: v-,w-,f-
+
+          if (rowspan) console.log(`${textNoNewline} has rowspan ${rowspan}`);
+          if (colspan) console.log(`${textNoNewline} has colspan ${colspan}`);
+
+          soundObjects.push(new ChineseSound(initials[columnIndex] 
 ,           finals[rowIndex-2] //First row is title, second are initials
-,           textNoNewline, pinyin(textNoNewline)));
+,           textNoNewline, pinyin(textNoNewline).join()));
 
           soundSentence.push(textNoNewline);
         }
