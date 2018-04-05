@@ -19,11 +19,12 @@ if (arg1 === undefined) {
   process.exit(0);
 }
 
-console.log(`Raw input was: ${arg1}`);
+// Call metaphone.attach() before calling transcribe() !
+export function transcribe(sentence: string): string {
+  const phonemes: string[] = sentence.tokenizeAndPhoneticize();
+  let result: string = "";
 
-metaphone.attach();
-const phonemes: string[] = arg1.tokenizeAndPhoneticize();
-phonemes.forEach(function(value, key, phonemes) {
+  phonemes.forEach(function(value, key, phonemes) {
     const transcribed: ChineseSound[] = chineseSound.toChineseSounds(value);
     let characters: string[] = [];
     let romans: string[] = [];
@@ -36,6 +37,13 @@ phonemes.forEach(function(value, key, phonemes) {
     });
 
     const transcribed_readable: string = characters.join("") + " " + pinyin.join(romans, "");
-    console.log(`${value} => ${transcribed_readable}`);
-});
+    result += `${value} => ${transcribed_readable}, `;
+  });
+
+  return result;
+}
+
+console.log(`Raw input was: ${arg1}`);
+metaphone.attach();
+console.log(transcribe(arg1));
 
