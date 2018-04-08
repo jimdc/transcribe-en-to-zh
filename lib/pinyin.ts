@@ -4,7 +4,9 @@ exports.join = function joinPinyin(syllables: string[], separator: string): stri
   let resultString: string = "";
 
   for(syllable of syllables) {
-    if (apostropheRequiredInitials.includes(syllable.charAt(0))) {
+    if (!(typeof syllable === 'string')) continue;
+    let initial = syllable.charAt(0);
+    if (apostropheRequiredInitials.includes(initial)) {
       if (resultString.length !== 0) { //It's not the beginning of the word
         if (resultString[-1] !== '-') { //The previous syllable is not dash
           resultString += '\'';

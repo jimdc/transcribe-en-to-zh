@@ -24,26 +24,29 @@ export function transcribe(sentence: string): string {
   const phonemes: string[] = sentence.tokenizeAndPhoneticize();
   let result: string = "";
 
-  phonemes.forEach(function(value, key, phonemes) {
-    const transcribed: ChineseSound[] = chineseSound.toChineseSounds(value);
+  phonemes.forEach(function(metaphoneValue, key, phonemes) {
+    const transcribed: ChineseSound[] = chineseSound.toChineseSounds(metaphoneValue);
     let characters: string[] = [];
     let romans: string[] = [];
 
-    transcribed.forEach(function(value, key, transcribed) {
-      if (value !== null) {
-        characters.push(value.zi);
-        romans.push(value.pinyin);
+    transcribed.forEach(function(chineseSoundValue, key, transcribed) {
+      if (chineseSoundValue !== null) {
+        characters.push(chineseSoundValue.zi);
+        romans.push(chineseSoundValue.pinyin);
       }
     });
 
     const transcribed_readable: string = characters.join("") + " " + pinyin.join(romans, "");
-    result += `${value} => ${transcribed_readable}, `;
+    result += `${metaphoneValue} => ${transcribed_readable}, `;
   });
 
-  return result;
+  return result.trim();
 }
 
-console.log(`Raw input was: ${arg1}`);
 metaphone.attach();
-console.log(transcribe(arg1));
+console.log(`Raw input was: ${arg1}`);
 
+chineseSound.loadRules().then(function() {
+  let arg1_transcribed: string = transcribe(arg1);
+  console.log(arg1_transcribed);
+});

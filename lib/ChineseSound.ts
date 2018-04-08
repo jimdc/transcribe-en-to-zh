@@ -17,22 +17,33 @@ class ChineseSound {
   pinyin: string;
 }
 
-const _b_: ChineseSound = new ChineseSound('b', null, '布', 'bù'); // can find this
-const _di: ChineseSound = new ChineseSound('d', 'ɪ', '迪', 'dí');  // can find this
+const _b_: ChineseSound = new ChineseSound('b', null, '布', 'bù');
+var _di: ChineseSound = null; // new ChineseSound('d', 'ɪ', '迪', 'dí');  
 const __r: ChineseSound = new ChineseSound(null, 'r', '尔', 'ěr');
 const __l: ChineseSound = new ChineseSound(null, 'l', '尔', 'ěr');
 const _is: ChineseSound = new ChineseSound('ɪ', 's', '西', 'xī');
 const __t: ChineseSound = new ChineseSound(null, 't', '特', 'tè');
-const _da: ChineseSound = new ChineseSound('d', 'ɒ', '多', 'duō'); // can find this
+let _da: ChineseSound = null; // new ChineseSound('d', 'ɒ', '多', 'duō');
 
-readFileAsync(path.join(__dirname, '..', 'build', 'zh-rules.json'), {encoding: 'utf8'})
-  .then(contents => {
-    const obj = JSON.parse(contents);
-    console.log(obj)
-  })
-  .catch(error => {
-    throw error
-  })
+let rules: ChineseSound[] = [];
+
+exports.loadRules = function loadRules(): Promise {
+  let rulesPromise = readFileAsync(path.join(__dirname, '..', 'build', 'zh-rules.json'), {encoding: 'utf8'})
+    .then(contents => {
+      rules = JSON.parse(contents);
+      _di = findChineseSounds('迪')[0];
+      _da = findChineseSounds('多')[0];
+      //console.log(`zh rules loaded`);
+    })
+    .catch(error => {
+      throw error;
+    })
+  return rulesPromise;
+}
+
+function findChineseSounds(character: string): ChineseSound[] {
+  return rules.filter(function(element) { return element.zi == character; });
+}
 
 exports.toChineseSounds = function in_zh(token: string): ChineseSound[] {
   let result: ChineseSound[] = [];
@@ -42,9 +53,13 @@ exports.toChineseSounds = function in_zh(token: string): ChineseSound[] {
     const is_final: boolean = (i == token.length-1);
     switch(token.charAt(i)) {
       case "T":
-        if (is_initial) result.push(_di);
-        else if (is_final) result.push(__t);
-        else result.push(null);
+        if (is_initial) {
+          result.push(_di);
+        } else if (is_final) {
+          result.push(__t);
+        } else { 
+          result.push(null);
+        }
         break;
       case "S":
         result.push(_is);
