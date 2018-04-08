@@ -2,7 +2,7 @@ const fs = require('fs');
 const rp = require('request-promise');
 const cheerio = require('cheerio');
 const pinyin = require('pinyin');
-import ChineseSound from './ChineseSound';
+import ChineseSound from '../lib/ChineseSound';
 
 const options = {
   uri: `https://en.wikipedia.org/wiki/Template:Transcription_into_Chinese`,

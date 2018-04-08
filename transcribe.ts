@@ -2,8 +2,8 @@ const natural = require('natural');
 const tokenizer = new natural.WordTokenizer();
 const stemmer = natural.PorterStemmer;
 const metaphone = natural.Metaphone;
-const chineseSound = require('./ChineseSound');
-const pinyin = require('./pinyin');
+const chineseSound = require('./lib/ChineseSound');
+const pinyin = require('./lib/pinyin');
 
 const myArgs: string[] = process.argv.slice(2);
 const arg1: string = myArgs[0];

@@ -1,4 +1,4 @@
-import { transcribe } from './transcribe'
+import { transcribe } from '../transcribe'
 import { expect } from 'chai';
 import 'mocha';
 

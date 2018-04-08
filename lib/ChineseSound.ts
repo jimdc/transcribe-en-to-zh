@@ -1,3 +1,8 @@
+const {promisify} = require('util')
+const fs = require('fs')
+const path = require('path')
+const readFileAsync = promisify(fs.readFile)
+
 class ChineseSound {
   constructor(initialSound: string, finalSound: string, zi: string, pinyin: string) {
     this.initialSound = initialSound;
@@ -12,13 +17,22 @@ class ChineseSound {
   pinyin: string;
 }
 
-const _b_: ChineseSound = new ChineseSound('b', null, '布', 'bù');
-const _di: ChineseSound = new ChineseSound('d', 'ɪ', '迪', 'dí');
+const _b_: ChineseSound = new ChineseSound('b', null, '布', 'bù'); // can find this
+const _di: ChineseSound = new ChineseSound('d', 'ɪ', '迪', 'dí');  // can find this
 const __r: ChineseSound = new ChineseSound(null, 'r', '尔', 'ěr');
 const __l: ChineseSound = new ChineseSound(null, 'l', '尔', 'ěr');
 const _is: ChineseSound = new ChineseSound('ɪ', 's', '西', 'xī');
 const __t: ChineseSound = new ChineseSound(null, 't', '特', 'tè');
-const _da: ChineseSound = new ChineseSound('d', 'ɒ', '多', 'duō');
+const _da: ChineseSound = new ChineseSound('d', 'ɒ', '多', 'duō'); // can find this
+
+readFileAsync(path.join(__dirname, '..', 'build', 'zh-rules.json'), {encoding: 'utf8'})
+  .then(contents => {
+    const obj = JSON.parse(contents);
+    console.log(obj)
+  })
+  .catch(error => {
+    throw error
+  })
 
 exports.toChineseSounds = function in_zh(token: string): ChineseSound[] {
   let result: ChineseSound[] = [];

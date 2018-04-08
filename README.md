@@ -13,10 +13,10 @@ Raw input was: dearest doll
 TRST => 迪尔西特 dí'ěrxītè
 TL => 迪尔 dí'ěr
 ```
-
+# dataset
 It is not necessary on a default install, but you can build the transcription rule `JSON` file by running
 ```
-ts-node scrape.ts
+ts-node build/scrape.ts
 ```
 which writes rules in `zh-rules.json` like
 ```
@@ -34,4 +34,9 @@ which writes rules in `zh-rules.json` like
     "pinyin": "pǔ"
   }
 ]
+```
+
+# testing
+```
+npm run test
 ```
