@@ -24,7 +24,7 @@ describe('findChineseSounds test', () => {
 
   it('It finds zi1 (unique, after colspan disruption)', () => {
     const result = chineseSound.find('兹')[0];
-    expect(result.initialSound).to.equal('z /dz');
+    expect(result.initialSound).to.equal('z / dz');
   });
 
 });
