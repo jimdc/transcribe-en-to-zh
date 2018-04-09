@@ -27,22 +27,21 @@ let _da: ChineseSound = null; // new ChineseSound('d', 'ɒ', '多', 'duō');
 
 let rules: ChineseSound[] = [];
 
+exports.find = function findChineseSounds(character: string): ChineseSound[] {
+  return rules.filter(function(element) { return element.zi == character; });
+}
+
 exports.loadRules = function loadRules(): Promise {
-  let rulesPromise = readFileAsync(path.join(__dirname, '..', 'build', 'zh-rules.json'), {encoding: 'utf8'})
+  let rulesPromise: Promise = readFileAsync(path.join(__dirname, '..', 'build', 'zh-rules.json'), {encoding: 'utf8'})
     .then(contents => {
       rules = JSON.parse(contents);
-      _di = findChineseSounds('迪')[0];
-      _da = findChineseSounds('多')[0];
-      //console.log(`zh rules loaded`);
+      _di = exports.find('迪')[0];
+      _da = exports.find('多')[0];
     })
     .catch(error => {
       throw error;
     })
   return rulesPromise;
-}
-
-function findChineseSounds(character: string): ChineseSound[] {
-  return rules.filter(function(element) { return element.zi == character; });
 }
 
 exports.toChineseSounds = function in_zh(token: string): ChineseSound[] {
