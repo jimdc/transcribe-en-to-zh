@@ -1,2516 +1,2642 @@
 [
   {
     "initialSound": "-",
-    "finalSound": "-",
     "zi": "",
-    "pinyin": ""
+    "pinyin": "",
+    "finalSound": "-"
   },
   {
     "initialSound": "b",
-    "finalSound": "-",
     "zi": "布",
-    "pinyin": "bù"
+    "pinyin": "bù",
+    "finalSound": "-"
   },
   {
     "initialSound": "p",
-    "finalSound": "-",
     "zi": "普",
-    "pinyin": "pǔ"
+    "pinyin": "pǔ",
+    "finalSound": "-"
   },
   {
     "initialSound": "d",
-    "finalSound": "-",
     "zi": "德",
-    "pinyin": "dé"
+    "pinyin": "dé",
+    "finalSound": "-"
   },
   {
     "initialSound": "t",
-    "finalSound": "-",
     "zi": "特",
-    "pinyin": "tè"
+    "pinyin": "tè",
+    "finalSound": "-"
   },
   {
     "initialSound": "g",
-    "finalSound": "-",
     "zi": "格",
-    "pinyin": "gé"
+    "pinyin": "gé",
+    "finalSound": "-"
   },
   {
     "initialSound": "k",
-    "finalSound": "-",
     "zi": "克",
-    "pinyin": "kè"
+    "pinyin": "kè",
+    "finalSound": "-"
   },
   {
     "initialSound": "v",
-    "finalSound": "-",
     "zi": "夫 / 弗",
-    "pinyin": "fū, / ,fú"
+    "pinyin": "fū, / ,fú",
+    "finalSound": "-"
   },
   {
     "initialSound": "w",
-    "finalSound": "-",
     "zi": "夫 / 弗",
-    "pinyin": "fū, / ,fú"
+    "pinyin": "fū, / ,fú",
+    "finalSound": "-"
   },
   {
     "initialSound": "f",
-    "finalSound": "-",
     "zi": "夫 / 弗",
-    "pinyin": "fū, / ,fú"
+    "pinyin": "fū, / ,fú",
+    "finalSound": "-"
   },
   {
     "initialSound": "z / dz",
-    "finalSound": "-",
     "zi": "兹",
-    "pinyin": "zī"
+    "pinyin": "zī",
+    "finalSound": "-"
   },
   {
     "initialSound": "ts",
-    "finalSound": "-",
     "zi": "茨",
-    "pinyin": "cí"
+    "pinyin": "cí",
+    "finalSound": "-"
   },
   {
     "initialSound": "s / ð / θ",
-    "finalSound": "-",
     "zi": "斯 / 丝",
-    "pinyin": "sī, / ,sī"
+    "pinyin": "sī, / ,sī",
+    "finalSound": "-"
   },
   {
     "initialSound": "ʒ",
-    "finalSound": "-",
     "zi": "日",
-    "pinyin": "rì"
+    "pinyin": "rì",
+    "finalSound": "-"
   },
   {
     "initialSound": "ʃ",
-    "finalSound": "-",
     "zi": "什",
-    "pinyin": "shí"
+    "pinyin": "shí",
+    "finalSound": "-"
   },
   {
     "initialSound": "dʒ",
-    "finalSound": "-",
     "zi": "奇",
-    "pinyin": "qí"
+    "pinyin": "qí",
+    "finalSound": "-"
   },
   {
     "initialSound": "tʃ",
-    "finalSound": "-",
     "zi": "奇",
-    "pinyin": "qí"
+    "pinyin": "qí",
+    "finalSound": "-"
   },
   {
     "initialSound": "h",
-    "finalSound": "-",
     "zi": "赫",
-    "pinyin": "hè"
+    "pinyin": "hè",
+    "finalSound": "-"
   },
   {
     "initialSound": "m",
-    "finalSound": "-",
     "zi": "姆",
-    "pinyin": "mǔ"
+    "pinyin": "mǔ",
+    "finalSound": "-"
   },
   {
     "initialSound": "n",
-    "finalSound": "-",
     "zi": "恩",
-    "pinyin": "ēn"
+    "pinyin": "ēn",
+    "finalSound": "-"
   },
   {
     "initialSound": "l",
-    "finalSound": "-",
     "zi": "尔",
-    "pinyin": "ěr"
+    "pinyin": "ěr",
+    "finalSound": "-"
   },
   {
     "initialSound": "r*",
-    "finalSound": "-",
     "zi": "尔",
-    "pinyin": "ěr"
+    "pinyin": "ěr",
+    "finalSound": "-"
   },
   {
     "initialSound": "j",
-    "finalSound": "-",
     "zi": "伊",
-    "pinyin": "yī"
+    "pinyin": "yī",
+    "finalSound": "-"
   },
   {
     "initialSound": "ɡʷ",
-    "finalSound": "-",
     "zi": "古",
-    "pinyin": "gǔ"
+    "pinyin": "gǔ",
+    "finalSound": "-"
   },
   {
     "initialSound": "kʷ",
-    "finalSound": "-",
     "zi": "库",
-    "pinyin": "kù"
+    "pinyin": "kù",
+    "finalSound": "-"
   },
   {
     "initialSound": "hʷ",
-    "finalSound": "-",
     "zi": "胡",
-    "pinyin": "hú"
+    "pinyin": "hú",
+    "finalSound": "-"
   },
   {
     "initialSound": "-",
-    "finalSound": "ɑː, æ, ʌ",
     "zi": "阿",
-    "pinyin": "ā"
+    "pinyin": "ā",
+    "finalSound": "ɑː, æ, ʌ"
   },
   {
     "initialSound": "b",
-    "finalSound": "ɑː, æ, ʌ",
     "zi": "巴 / 芭",
-    "pinyin": "bā, / ,bā"
+    "pinyin": "bā, / ,bā",
+    "finalSound": "ɑː, æ, ʌ"
   },
   {
     "initialSound": "p",
-    "finalSound": "ɑː, æ, ʌ",
     "zi": "帕",
-    "pinyin": "pà"
+    "pinyin": "pà",
+    "finalSound": "ɑː, æ, ʌ"
   },
   {
     "initialSound": "d",
-    "finalSound": "ɑː, æ, ʌ",
     "zi": "达",
-    "pinyin": "dá"
+    "pinyin": "dá",
+    "finalSound": "ɑː, æ, ʌ"
   },
   {
     "initialSound": "t",
-    "finalSound": "ɑː, æ, ʌ",
     "zi": "塔",
-    "pinyin": "tǎ"
+    "pinyin": "tǎ",
+    "finalSound": "ɑː, æ, ʌ"
   },
   {
     "initialSound": "g",
-    "finalSound": "ɑː, æ, ʌ",
     "zi": "加",
-    "pinyin": "jiā"
+    "pinyin": "jiā",
+    "finalSound": "ɑː, æ, ʌ"
   },
   {
     "initialSound": "k",
-    "finalSound": "ɑː, æ, ʌ",
     "zi": "卡",
-    "pinyin": "qiǎ"
+    "pinyin": "qiǎ",
+    "finalSound": "ɑː, æ, ʌ"
   },
   {
     "initialSound": "v",
-    "finalSound": "ɑː, æ, ʌ",
     "zi": "瓦 / 娃",
-    "pinyin": "wǎ, / ,wá"
+    "pinyin": "wǎ, / ,wá",
+    "finalSound": "ɑː, æ, ʌ"
   },
   {
     "initialSound": "w",
-    "finalSound": "ɑː, æ, ʌ",
     "zi": "瓦 / 娃",
-    "pinyin": "wǎ, / ,wá"
+    "pinyin": "wǎ, / ,wá",
+    "finalSound": "ɑː, æ, ʌ"
   },
   {
     "initialSound": "f",
-    "finalSound": "ɑː, æ, ʌ",
     "zi": "法 / 娃",
-    "pinyin": "fǎ, / ,wá"
+    "pinyin": "fǎ, / ,wá",
+    "finalSound": "ɑː, æ, ʌ"
   },
   {
     "initialSound": "z / dz",
-    "finalSound": "ɑː, æ, ʌ",
     "zi": "扎",
-    "pinyin": "zā"
+    "pinyin": "zā",
+    "finalSound": "ɑː, æ, ʌ"
   },
   {
     "initialSound": "ts",
-    "finalSound": "ɑː, æ, ʌ",
     "zi": "察",
-    "pinyin": "chá"
+    "pinyin": "chá",
+    "finalSound": "ɑː, æ, ʌ"
   },
   {
     "initialSound": "s / ð / θ",
-    "finalSound": "ɑː, æ, ʌ",
     "zi": "萨 / 莎",
-    "pinyin": "sà, / ,suō"
+    "pinyin": "sà, / ,suō",
+    "finalSound": "ɑː, æ, ʌ"
   },
   {
     "initialSound": "ʒ",
-    "finalSound": "ɑː, æ, ʌ",
     "zi": "扎",
-    "pinyin": "zā"
+    "pinyin": "zā",
+    "finalSound": "ɑː, æ, ʌ"
   },
   {
     "initialSound": "ʃ",
-    "finalSound": "ɑː, æ, ʌ",
     "zi": "沙 / 莎",
-    "pinyin": "shā, / ,suō"
+    "pinyin": "shā, / ,suō",
+    "finalSound": "ɑː, æ, ʌ"
   },
   {
     "initialSound": "dʒ",
-    "finalSound": "ɑː, æ, ʌ",
     "zi": "贾",
-    "pinyin": "jiǎ"
+    "pinyin": "jiǎ",
+    "finalSound": "ɑː, æ, ʌ"
   },
   {
     "initialSound": "tʃ",
-    "finalSound": "ɑː, æ, ʌ",
     "zi": "查",
-    "pinyin": "chá"
+    "pinyin": "chá",
+    "finalSound": "ɑː, æ, ʌ"
   },
   {
     "initialSound": "h",
-    "finalSound": "ɑː, æ, ʌ",
     "zi": "哈",
-    "pinyin": "hā"
+    "pinyin": "hā",
+    "finalSound": "ɑː, æ, ʌ"
   },
   {
     "initialSound": "m",
-    "finalSound": "ɑː, æ, ʌ",
     "zi": "马 / 玛",
-    "pinyin": "mǎ, / ,mǎ"
+    "pinyin": "mǎ, / ,mǎ",
+    "finalSound": "ɑː, æ, ʌ"
   },
   {
     "initialSound": "n",
-    "finalSound": "ɑː, æ, ʌ",
     "zi": "纳 / 娜",
-    "pinyin": "nà, / ,nà"
+    "pinyin": "nà, / ,nà",
+    "finalSound": "ɑː, æ, ʌ"
   },
   {
     "initialSound": "l",
-    "finalSound": "ɑː, æ, ʌ",
     "zi": "拉",
-    "pinyin": "lā"
+    "pinyin": "lā",
+    "finalSound": "ɑː, æ, ʌ"
   },
   {
     "initialSound": "r*",
-    "finalSound": "ɑː, æ, ʌ",
     "zi": "拉",
-    "pinyin": "lā"
+    "pinyin": "lā",
+    "finalSound": "ɑː, æ, ʌ"
   },
   {
     "initialSound": "j",
-    "finalSound": "ɑː, æ, ʌ",
     "zi": "亚 / 娅",
-    "pinyin": "yà, / ,yà"
+    "pinyin": "yà, / ,yà",
+    "finalSound": "ɑː, æ, ʌ"
   },
   {
     "initialSound": "ɡʷ",
-    "finalSound": "ɑː, æ, ʌ",
     "zi": "瓜",
-    "pinyin": "guā"
+    "pinyin": "guā",
+    "finalSound": "ɑː, æ, ʌ"
   },
   {
     "initialSound": "kʷ",
-    "finalSound": "ɑː, æ, ʌ",
     "zi": "夸",
-    "pinyin": "kuā"
+    "pinyin": "kuā",
+    "finalSound": "ɑː, æ, ʌ"
   },
   {
     "initialSound": "hʷ",
-    "finalSound": "ɑː, æ, ʌ",
     "zi": "华",
-    "pinyin": "huá"
+    "pinyin": "huá",
+    "finalSound": "ɑː, æ, ʌ"
   },
   {
     "initialSound": "-",
-    "finalSound": "ɛ, eɪ",
     "zi": "埃",
-    "pinyin": "āi"
+    "pinyin": "āi",
+    "finalSound": "ɛ, eɪ"
   },
   {
     "initialSound": "b",
-    "finalSound": "ɛ, eɪ",
     "zi": "贝",
-    "pinyin": "bèi"
+    "pinyin": "bèi",
+    "finalSound": "ɛ, eɪ"
   },
   {
     "initialSound": "p",
-    "finalSound": "ɛ, eɪ",
     "zi": "佩",
-    "pinyin": "pèi"
+    "pinyin": "pèi",
+    "finalSound": "ɛ, eɪ"
   },
   {
     "initialSound": "d",
-    "finalSound": "ɛ, eɪ",
     "zi": "德",
-    "pinyin": "dé"
+    "pinyin": "dé",
+    "finalSound": "ɛ, eɪ"
   },
   {
     "initialSound": "t",
-    "finalSound": "ɛ, eɪ",
     "zi": "特 / 泰",
-    "pinyin": "tè, / ,tài"
+    "pinyin": "tè, / ,tài",
+    "finalSound": "ɛ, eɪ"
   },
   {
     "initialSound": "g",
-    "finalSound": "ɛ, eɪ",
     "zi": "盖",
-    "pinyin": "gài"
+    "pinyin": "gài",
+    "finalSound": "ɛ, eɪ"
   },
   {
     "initialSound": "k",
-    "finalSound": "ɛ, eɪ",
     "zi": "凯",
-    "pinyin": "kǎi"
+    "pinyin": "kǎi",
+    "finalSound": "ɛ, eɪ"
   },
   {
     "initialSound": "v",
-    "finalSound": "ɛ, eɪ",
     "zi": "韦",
-    "pinyin": "wéi"
+    "pinyin": "wéi",
+    "finalSound": "ɛ, eɪ"
   },
   {
     "initialSound": "w",
-    "finalSound": "ɛ, eɪ",
     "zi": "韦",
-    "pinyin": "wéi"
+    "pinyin": "wéi",
+    "finalSound": "ɛ, eɪ"
   },
   {
     "initialSound": "f",
-    "finalSound": "ɛ, eɪ",
     "zi": "费",
-    "pinyin": "fèi"
+    "pinyin": "fèi",
+    "finalSound": "ɛ, eɪ"
   },
   {
     "initialSound": "z / dz",
-    "finalSound": "ɛ, eɪ",
     "zi": "泽",
-    "pinyin": "zé"
+    "pinyin": "zé",
+    "finalSound": "ɛ, eɪ"
   },
   {
     "initialSound": "ts",
-    "finalSound": "ɛ, eɪ",
     "zi": "策",
-    "pinyin": "cè"
+    "pinyin": "cè",
+    "finalSound": "ɛ, eɪ"
   },
   {
     "initialSound": "s / ð / θ",
-    "finalSound": "ɛ, eɪ",
     "zi": "塞",
-    "pinyin": "sāi"
+    "pinyin": "sāi",
+    "finalSound": "ɛ, eɪ"
   },
   {
     "initialSound": "ʒ",
-    "finalSound": "ɛ, eɪ",
     "zi": "热",
-    "pinyin": "rè"
+    "pinyin": "rè",
+    "finalSound": "ɛ, eɪ"
   },
   {
     "initialSound": "ʃ",
-    "finalSound": "ɛ, eɪ",
     "zi": "谢",
-    "pinyin": "xiè"
+    "pinyin": "xiè",
+    "finalSound": "ɛ, eɪ"
   },
   {
     "initialSound": "dʒ",
-    "finalSound": "ɛ, eɪ",
     "zi": "杰",
-    "pinyin": "jié"
+    "pinyin": "jié",
+    "finalSound": "ɛ, eɪ"
   },
   {
     "initialSound": "tʃ",
-    "finalSound": "ɛ, eɪ",
     "zi": "切",
-    "pinyin": "qiē"
+    "pinyin": "qiē",
+    "finalSound": "ɛ, eɪ"
   },
   {
     "initialSound": "h",
-    "finalSound": "ɛ, eɪ",
     "zi": "赫 / 黑",
-    "pinyin": "hè, / ,hēi"
+    "pinyin": "hè, / ,hēi",
+    "finalSound": "ɛ, eɪ"
   },
   {
     "initialSound": "m",
-    "finalSound": "ɛ, eɪ",
     "zi": "梅",
-    "pinyin": "méi"
+    "pinyin": "méi",
+    "finalSound": "ɛ, eɪ"
   },
   {
     "initialSound": "n",
-    "finalSound": "ɛ, eɪ",
     "zi": "内",
-    "pinyin": "nèi"
+    "pinyin": "nèi",
+    "finalSound": "ɛ, eɪ"
   },
   {
     "initialSound": "l",
-    "finalSound": "ɛ, eɪ",
     "zi": "莱",
-    "pinyin": "lái"
+    "pinyin": "lái",
+    "finalSound": "ɛ, eɪ"
   },
   {
     "initialSound": "r*",
-    "finalSound": "ɛ, eɪ",
     "zi": "雷 /蕾",
-    "pinyin": "léi, /,lěi"
+    "pinyin": "léi, /,lěi",
+    "finalSound": "ɛ, eɪ"
   },
   {
     "initialSound": "j",
-    "finalSound": "ɛ, eɪ",
     "zi": "耶",
-    "pinyin": "yé"
+    "pinyin": "yé",
+    "finalSound": "ɛ, eɪ"
   },
   {
     "initialSound": "ɡʷ",
-    "finalSound": "ɛ, eɪ",
     "zi": "圭",
-    "pinyin": "guī"
+    "pinyin": "guī",
+    "finalSound": "ɛ, eɪ"
   },
   {
     "initialSound": "kʷ",
-    "finalSound": "ɛ, eɪ",
     "zi": "奎",
-    "pinyin": "kuí"
+    "pinyin": "kuí",
+    "finalSound": "ɛ, eɪ"
   },
   {
     "initialSound": "hʷ",
-    "finalSound": "ɛ, eɪ",
     "zi": "惠",
-    "pinyin": "huì"
+    "pinyin": "huì",
+    "finalSound": "ɛ, eɪ"
   },
   {
     "initialSound": "-",
-    "finalSound": "ɜ, ə",
     "zi": "厄",
-    "pinyin": "è"
+    "pinyin": "è",
+    "finalSound": "ɜ, ə"
   },
   {
     "initialSound": "b",
-    "finalSound": "ɜ, ə",
     "zi": "伯",
-    "pinyin": "bó"
+    "pinyin": "bó",
+    "finalSound": "ɜ, ə"
   },
   {
     "initialSound": "p",
-    "finalSound": "ɜ, ə",
     "zi": "珀",
-    "pinyin": "pò"
+    "pinyin": "pò",
+    "finalSound": "ɜ, ə"
   },
   {
     "initialSound": "d",
-    "finalSound": "ɜ, ə",
     "zi": "德",
-    "pinyin": "dé"
+    "pinyin": "dé",
+    "finalSound": "ɜ, ə"
   },
   {
     "initialSound": "t",
-    "finalSound": "ɜ, ə",
     "zi": "特",
-    "pinyin": "tè"
+    "pinyin": "tè",
+    "finalSound": "ɜ, ə"
   },
   {
     "initialSound": "g",
-    "finalSound": "ɜ, ə",
     "zi": "格",
-    "pinyin": "gé"
+    "pinyin": "gé",
+    "finalSound": "ɜ, ə"
   },
   {
     "initialSound": "k",
-    "finalSound": "ɜ, ə",
     "zi": "克",
-    "pinyin": "kè"
+    "pinyin": "kè",
+    "finalSound": "ɜ, ə"
   },
   {
     "initialSound": "v",
-    "finalSound": "ɜ, ə",
     "zi": "弗",
-    "pinyin": "fú"
+    "pinyin": "fú",
+    "finalSound": "ɜ, ə"
   },
   {
     "initialSound": "w",
-    "finalSound": "ɜ, ə",
     "zi": "沃",
-    "pinyin": "wò"
+    "pinyin": "wò",
+    "finalSound": "ɜ, ə"
   },
   {
     "initialSound": "f",
-    "finalSound": "ɜ, ə",
     "zi": "弗",
-    "pinyin": "fú"
+    "pinyin": "fú",
+    "finalSound": "ɜ, ə"
   },
   {
     "initialSound": "z / dz",
-    "finalSound": "ɜ, ə",
     "zi": "泽",
-    "pinyin": "zé"
+    "pinyin": "zé",
+    "finalSound": "ɜ, ə"
   },
   {
     "initialSound": "ts",
-    "finalSound": "ɜ, ə",
     "zi": "策",
-    "pinyin": "cè"
+    "pinyin": "cè",
+    "finalSound": "ɜ, ə"
   },
   {
     "initialSound": "s / ð / θ",
-    "finalSound": "ɜ, ə",
     "zi": "瑟",
-    "pinyin": "sè"
+    "pinyin": "sè",
+    "finalSound": "ɜ, ə"
   },
   {
     "initialSound": "ʒ",
-    "finalSound": "ɜ, ə",
     "zi": "热",
-    "pinyin": "rè"
+    "pinyin": "rè",
+    "finalSound": "ɜ, ə"
   },
   {
     "initialSound": "ʃ",
-    "finalSound": "ɜ, ə",
     "zi": "舍",
-    "pinyin": "shě"
+    "pinyin": "shě",
+    "finalSound": "ɜ, ə"
   },
   {
     "initialSound": "dʒ",
-    "finalSound": "ɜ, ə",
     "zi": "哲",
-    "pinyin": "zhé"
+    "pinyin": "zhé",
+    "finalSound": "ɜ, ə"
   },
   {
     "initialSound": "tʃ",
-    "finalSound": "ɜ, ə",
     "zi": "彻",
-    "pinyin": "chè"
+    "pinyin": "chè",
+    "finalSound": "ɜ, ə"
   },
   {
     "initialSound": "h",
-    "finalSound": "ɜ, ə",
     "zi": "赫",
-    "pinyin": "hè"
+    "pinyin": "hè",
+    "finalSound": "ɜ, ə"
   },
   {
     "initialSound": "m",
-    "finalSound": "ɜ, ə",
     "zi": "默",
-    "pinyin": "mò"
+    "pinyin": "mò",
+    "finalSound": "ɜ, ə"
   },
   {
     "initialSound": "n",
-    "finalSound": "ɜ, ə",
     "zi": "纳 / 娜",
-    "pinyin": "nà, / ,nà"
+    "pinyin": "nà, / ,nà",
+    "finalSound": "ɜ, ə"
   },
   {
     "initialSound": "l",
-    "finalSound": "ɜ, ə",
     "zi": "勒",
-    "pinyin": "lè"
+    "pinyin": "lè",
+    "finalSound": "ɜ, ə"
   },
   {
     "initialSound": "r*",
-    "finalSound": "ɜ, ə",
     "zi": "勒",
-    "pinyin": "lè"
+    "pinyin": "lè",
+    "finalSound": "ɜ, ə"
   },
   {
     "initialSound": "j",
-    "finalSound": "ɜ, ə",
     "zi": "耶",
-    "pinyin": "yé"
+    "pinyin": "yé",
+    "finalSound": "ɜ, ə"
   },
   {
     "initialSound": "ɡʷ",
-    "finalSound": "ɜ, ə",
     "zi": "果",
-    "pinyin": "guǒ"
+    "pinyin": "guǒ",
+    "finalSound": "ɜ, ə"
   },
   {
     "initialSound": "kʷ",
-    "finalSound": "ɜ, ə",
     "zi": "阔",
-    "pinyin": "kuò"
+    "pinyin": "kuò",
+    "finalSound": "ɜ, ə"
   },
   {
     "initialSound": "hʷ",
-    "finalSound": "ɜ, ə",
     "zi": "霍",
-    "pinyin": "huò"
+    "pinyin": "huò",
+    "finalSound": "ɜ, ə"
   },
   {
     "initialSound": "-",
-    "finalSound": "iː, ɪ",
     "zi": "伊",
-    "pinyin": "yī"
+    "pinyin": "yī",
+    "finalSound": "iː, ɪ"
   },
   {
     "initialSound": "b",
-    "finalSound": "iː, ɪ",
     "zi": "比",
-    "pinyin": "bǐ"
+    "pinyin": "bǐ",
+    "finalSound": "iː, ɪ"
   },
   {
     "initialSound": "p",
-    "finalSound": "iː, ɪ",
     "zi": "皮",
-    "pinyin": "pí"
+    "pinyin": "pí",
+    "finalSound": "iː, ɪ"
   },
   {
     "initialSound": "d",
-    "finalSound": "iː, ɪ",
     "zi": "迪",
-    "pinyin": "dí"
+    "pinyin": "dí",
+    "finalSound": "iː, ɪ"
   },
   {
     "initialSound": "t",
-    "finalSound": "iː, ɪ",
     "zi": "蒂",
-    "pinyin": "dì"
+    "pinyin": "dì",
+    "finalSound": "iː, ɪ"
   },
   {
     "initialSound": "g",
-    "finalSound": "iː, ɪ",
     "zi": "吉",
-    "pinyin": "jí"
+    "pinyin": "jí",
+    "finalSound": "iː, ɪ"
   },
   {
     "initialSound": "k",
-    "finalSound": "iː, ɪ",
     "zi": "基",
-    "pinyin": "jī"
+    "pinyin": "jī",
+    "finalSound": "iː, ɪ"
   },
   {
     "initialSound": "v",
-    "finalSound": "iː, ɪ",
     "zi": "维",
-    "pinyin": "wéi"
+    "pinyin": "wéi",
+    "finalSound": "iː, ɪ"
   },
   {
     "initialSound": "w",
-    "finalSound": "iː, ɪ",
     "zi": "威",
-    "pinyin": "wēi"
+    "pinyin": "wēi",
+    "finalSound": "iː, ɪ"
   },
   {
     "initialSound": "f",
-    "finalSound": "iː, ɪ",
     "zi": "菲",
-    "pinyin": "fēi"
+    "pinyin": "fēi",
+    "finalSound": "iː, ɪ"
   },
   {
     "initialSound": "z / dz",
-    "finalSound": "iː, ɪ",
     "zi": "齐",
-    "pinyin": "qí"
+    "pinyin": "qí",
+    "finalSound": "iː, ɪ"
   },
   {
     "initialSound": "ts",
-    "finalSound": "iː, ɪ",
     "zi": "齐",
-    "pinyin": "qí"
+    "pinyin": "qí",
+    "finalSound": "iː, ɪ"
   },
   {
     "initialSound": "s / ð / θ",
-    "finalSound": "iː, ɪ",
     "zi": "西",
-    "pinyin": "xī"
+    "pinyin": "xī",
+    "finalSound": "iː, ɪ"
   },
   {
     "initialSound": "ʒ",
-    "finalSound": "iː, ɪ",
     "zi": "日",
-    "pinyin": "rì"
+    "pinyin": "rì",
+    "finalSound": "iː, ɪ"
   },
   {
     "initialSound": "ʃ",
-    "finalSound": "iː, ɪ",
     "zi": "希",
-    "pinyin": "xī"
+    "pinyin": "xī",
+    "finalSound": "iː, ɪ"
   },
   {
     "initialSound": "dʒ",
-    "finalSound": "iː, ɪ",
     "zi": "吉",
-    "pinyin": "jí"
+    "pinyin": "jí",
+    "finalSound": "iː, ɪ"
   },
   {
     "initialSound": "tʃ",
-    "finalSound": "iː, ɪ",
     "zi": "奇",
-    "pinyin": "qí"
+    "pinyin": "qí",
+    "finalSound": "iː, ɪ"
   },
   {
     "initialSound": "h",
-    "finalSound": "iː, ɪ",
     "zi": "希",
-    "pinyin": "xī"
+    "pinyin": "xī",
+    "finalSound": "iː, ɪ"
   },
   {
     "initialSound": "m",
-    "finalSound": "iː, ɪ",
     "zi": "米",
-    "pinyin": "mǐ"
+    "pinyin": "mǐ",
+    "finalSound": "iː, ɪ"
   },
   {
     "initialSound": "n",
-    "finalSound": "iː, ɪ",
     "zi": "尼 / 妮",
-    "pinyin": "ní, / ,nī"
+    "pinyin": "ní, / ,nī",
+    "finalSound": "iː, ɪ"
   },
   {
     "initialSound": "l",
-    "finalSound": "iː, ɪ",
     "zi": "利 / 莉",
-    "pinyin": "lì, / ,lì"
+    "pinyin": "lì, / ,lì",
+    "finalSound": "iː, ɪ"
   },
   {
     "initialSound": "r*",
-    "finalSound": "iː, ɪ",
     "zi": "里 / 丽",
-    "pinyin": "lǐ, / ,lì"
+    "pinyin": "lǐ, / ,lì",
+    "finalSound": "iː, ɪ"
   },
   {
     "initialSound": "j",
-    "finalSound": "iː, ɪ",
     "zi": "伊",
-    "pinyin": "yī"
+    "pinyin": "yī",
+    "finalSound": "iː, ɪ"
   },
   {
     "initialSound": "ɡʷ",
-    "finalSound": "iː, ɪ",
     "zi": "圭",
-    "pinyin": "guī"
+    "pinyin": "guī",
+    "finalSound": "iː, ɪ"
   },
   {
     "initialSound": "kʷ",
-    "finalSound": "iː, ɪ",
     "zi": "奎",
-    "pinyin": "kuí"
+    "pinyin": "kuí",
+    "finalSound": "iː, ɪ"
   },
   {
     "initialSound": "hʷ",
-    "finalSound": "iː, ɪ",
     "zi": "惠",
-    "pinyin": "huì"
+    "pinyin": "huì",
+    "finalSound": "iː, ɪ"
   },
   {
     "initialSound": "-",
-    "finalSound": "ɒ, ɔː, oʊ",
     "zi": "奥 / 欧",
-    "pinyin": "ào, / ,ōu"
+    "pinyin": "ào, / ,ōu",
+    "finalSound": "ɒ, ɔː, oʊ"
   },
   {
     "initialSound": "b",
-    "finalSound": "ɒ, ɔː, oʊ",
     "zi": "博",
-    "pinyin": "bó"
+    "pinyin": "bó",
+    "finalSound": "ɒ, ɔː, oʊ"
   },
   {
     "initialSound": "p",
-    "finalSound": "ɒ, ɔː, oʊ",
     "zi": "波",
-    "pinyin": "bō"
+    "pinyin": "bō",
+    "finalSound": "ɒ, ɔː, oʊ"
   },
   {
     "initialSound": "d",
-    "finalSound": "ɒ, ɔː, oʊ",
     "zi": "多",
-    "pinyin": "duō"
+    "pinyin": "duō",
+    "finalSound": "ɒ, ɔː, oʊ"
   },
   {
     "initialSound": "t",
-    "finalSound": "ɒ, ɔː, oʊ",
     "zi": "托",
-    "pinyin": "tuō"
+    "pinyin": "tuō",
+    "finalSound": "ɒ, ɔː, oʊ"
   },
   {
     "initialSound": "g",
-    "finalSound": "ɒ, ɔː, oʊ",
     "zi": "戈",
-    "pinyin": "gē"
+    "pinyin": "gē",
+    "finalSound": "ɒ, ɔː, oʊ"
   },
   {
     "initialSound": "k",
-    "finalSound": "ɒ, ɔː, oʊ",
     "zi": "科",
-    "pinyin": "kē"
+    "pinyin": "kē",
+    "finalSound": "ɒ, ɔː, oʊ"
   },
   {
     "initialSound": "v",
-    "finalSound": "ɒ, ɔː, oʊ",
     "zi": "沃",
-    "pinyin": "wò"
+    "pinyin": "wò",
+    "finalSound": "ɒ, ɔː, oʊ"
   },
   {
     "initialSound": "w",
-    "finalSound": "ɒ, ɔː, oʊ",
     "zi": "沃",
-    "pinyin": "wò"
+    "pinyin": "wò",
+    "finalSound": "ɒ, ɔː, oʊ"
   },
   {
     "initialSound": "f",
-    "finalSound": "ɒ, ɔː, oʊ",
     "zi": "福",
-    "pinyin": "fú"
+    "pinyin": "fú",
+    "finalSound": "ɒ, ɔː, oʊ"
   },
   {
     "initialSound": "z / dz",
-    "finalSound": "ɒ, ɔː, oʊ",
     "zi": "佐",
-    "pinyin": "zuǒ"
+    "pinyin": "zuǒ",
+    "finalSound": "ɒ, ɔː, oʊ"
   },
   {
     "initialSound": "ts",
-    "finalSound": "ɒ, ɔː, oʊ",
     "zi": "措",
-    "pinyin": "cuò"
+    "pinyin": "cuò",
+    "finalSound": "ɒ, ɔː, oʊ"
   },
   {
     "initialSound": "s / ð / θ",
-    "finalSound": "ɒ, ɔː, oʊ",
     "zi": "索",
-    "pinyin": "suǒ"
+    "pinyin": "suǒ",
+    "finalSound": "ɒ, ɔː, oʊ"
   },
   {
     "initialSound": "ʒ",
-    "finalSound": "ɒ, ɔː, oʊ",
     "zi": "若",
-    "pinyin": "ruò"
+    "pinyin": "ruò",
+    "finalSound": "ɒ, ɔː, oʊ"
   },
   {
     "initialSound": "ʃ",
-    "finalSound": "ɒ, ɔː, oʊ",
     "zi": "肖",
-    "pinyin": "xiāo"
+    "pinyin": "xiāo",
+    "finalSound": "ɒ, ɔː, oʊ"
   },
   {
     "initialSound": "dʒ",
-    "finalSound": "ɒ, ɔː, oʊ",
     "zi": "乔",
-    "pinyin": "qiáo"
+    "pinyin": "qiáo",
+    "finalSound": "ɒ, ɔː, oʊ"
   },
   {
     "initialSound": "tʃ",
-    "finalSound": "ɒ, ɔː, oʊ",
     "zi": "乔",
-    "pinyin": "qiáo"
+    "pinyin": "qiáo",
+    "finalSound": "ɒ, ɔː, oʊ"
   },
   {
     "initialSound": "h",
-    "finalSound": "ɒ, ɔː, oʊ",
     "zi": "霍",
-    "pinyin": "huò"
+    "pinyin": "huò",
+    "finalSound": "ɒ, ɔː, oʊ"
   },
   {
     "initialSound": "m",
-    "finalSound": "ɒ, ɔː, oʊ",
     "zi": "莫",
-    "pinyin": "mò"
+    "pinyin": "mò",
+    "finalSound": "ɒ, ɔː, oʊ"
   },
   {
     "initialSound": "n",
-    "finalSound": "ɒ, ɔː, oʊ",
     "zi": "诺",
-    "pinyin": "nuò"
+    "pinyin": "nuò",
+    "finalSound": "ɒ, ɔː, oʊ"
   },
   {
     "initialSound": "l",
-    "finalSound": "ɒ, ɔː, oʊ",
     "zi": "洛",
-    "pinyin": "luò"
+    "pinyin": "luò",
+    "finalSound": "ɒ, ɔː, oʊ"
   },
   {
     "initialSound": "r*",
-    "finalSound": "ɒ, ɔː, oʊ",
     "zi": "罗 / 萝",
-    "pinyin": "luó, / ,luó"
+    "pinyin": "luó, / ,luó",
+    "finalSound": "ɒ, ɔː, oʊ"
   },
   {
     "initialSound": "j",
-    "finalSound": "ɒ, ɔː, oʊ",
     "zi": "约",
-    "pinyin": "yuē"
+    "pinyin": "yuē",
+    "finalSound": "ɒ, ɔː, oʊ"
   },
   {
     "initialSound": "ɡʷ",
-    "finalSound": "ɒ, ɔː, oʊ",
     "zi": "果",
-    "pinyin": "guǒ"
+    "pinyin": "guǒ",
+    "finalSound": "ɒ, ɔː, oʊ"
   },
   {
     "initialSound": "kʷ",
-    "finalSound": "ɒ, ɔː, oʊ",
     "zi": "阔",
-    "pinyin": "kuò"
+    "pinyin": "kuò",
+    "finalSound": "ɒ, ɔː, oʊ"
   },
   {
     "initialSound": "hʷ",
-    "finalSound": "ɒ, ɔː, oʊ",
     "zi": "霍",
-    "pinyin": "huò"
+    "pinyin": "huò",
+    "finalSound": "ɒ, ɔː, oʊ"
   },
   {
     "initialSound": "-",
-    "finalSound": "uː, ʊ",
     "zi": "乌",
-    "pinyin": "wū"
+    "pinyin": "wū",
+    "finalSound": "uː, ʊ"
   },
   {
     "initialSound": "b",
-    "finalSound": "uː, ʊ",
     "zi": "布",
-    "pinyin": "bù"
+    "pinyin": "bù",
+    "finalSound": "uː, ʊ"
   },
   {
     "initialSound": "p",
-    "finalSound": "uː, ʊ",
     "zi": "普",
-    "pinyin": "pǔ"
+    "pinyin": "pǔ",
+    "finalSound": "uː, ʊ"
   },
   {
     "initialSound": "d",
-    "finalSound": "uː, ʊ",
     "zi": "杜",
-    "pinyin": "dù"
+    "pinyin": "dù",
+    "finalSound": "uː, ʊ"
   },
   {
     "initialSound": "t",
-    "finalSound": "uː, ʊ",
     "zi": "图",
-    "pinyin": "tú"
+    "pinyin": "tú",
+    "finalSound": "uː, ʊ"
   },
   {
     "initialSound": "g",
-    "finalSound": "uː, ʊ",
     "zi": "古",
-    "pinyin": "gǔ"
+    "pinyin": "gǔ",
+    "finalSound": "uː, ʊ"
   },
   {
     "initialSound": "k",
-    "finalSound": "uː, ʊ",
     "zi": "库",
-    "pinyin": "kù"
+    "pinyin": "kù",
+    "finalSound": "uː, ʊ"
   },
   {
     "initialSound": "v",
-    "finalSound": "uː, ʊ",
     "zi": "武",
-    "pinyin": "wǔ"
+    "pinyin": "wǔ",
+    "finalSound": "uː, ʊ"
   },
   {
     "initialSound": "w",
-    "finalSound": "uː, ʊ",
     "zi": "伍",
-    "pinyin": "wǔ"
+    "pinyin": "wǔ",
+    "finalSound": "uː, ʊ"
   },
   {
     "initialSound": "f",
-    "finalSound": "uː, ʊ",
     "zi": "富",
-    "pinyin": "fù"
+    "pinyin": "fù",
+    "finalSound": "uː, ʊ"
   },
   {
     "initialSound": "z / dz",
-    "finalSound": "uː, ʊ",
     "zi": "祖",
-    "pinyin": "zǔ"
+    "pinyin": "zǔ",
+    "finalSound": "uː, ʊ"
   },
   {
     "initialSound": "ts",
-    "finalSound": "uː, ʊ",
     "zi": "楚",
-    "pinyin": "chǔ"
+    "pinyin": "chǔ",
+    "finalSound": "uː, ʊ"
   },
   {
     "initialSound": "s / ð / θ",
-    "finalSound": "uː, ʊ",
     "zi": "苏",
-    "pinyin": "sū"
+    "pinyin": "sū",
+    "finalSound": "uː, ʊ"
   },
   {
     "initialSound": "ʒ",
-    "finalSound": "uː, ʊ",
     "zi": "茹",
-    "pinyin": "rú"
+    "pinyin": "rú",
+    "finalSound": "uː, ʊ"
   },
   {
     "initialSound": "ʃ",
-    "finalSound": "uː, ʊ",
     "zi": "舒",
-    "pinyin": "shū"
+    "pinyin": "shū",
+    "finalSound": "uː, ʊ"
   },
   {
     "initialSound": "dʒ",
-    "finalSound": "uː, ʊ",
     "zi": "朱",
-    "pinyin": "zhū"
+    "pinyin": "zhū",
+    "finalSound": "uː, ʊ"
   },
   {
     "initialSound": "tʃ",
-    "finalSound": "uː, ʊ",
     "zi": "楚",
-    "pinyin": "chǔ"
+    "pinyin": "chǔ",
+    "finalSound": "uː, ʊ"
   },
   {
     "initialSound": "h",
-    "finalSound": "uː, ʊ",
     "zi": "胡",
-    "pinyin": "hú"
+    "pinyin": "hú",
+    "finalSound": "uː, ʊ"
   },
   {
     "initialSound": "m",
-    "finalSound": "uː, ʊ",
     "zi": "穆",
-    "pinyin": "mù"
+    "pinyin": "mù",
+    "finalSound": "uː, ʊ"
   },
   {
     "initialSound": "n",
-    "finalSound": "uː, ʊ",
     "zi": "努",
-    "pinyin": "nǔ"
+    "pinyin": "nǔ",
+    "finalSound": "uː, ʊ"
   },
   {
     "initialSound": "l",
-    "finalSound": "uː, ʊ",
     "zi": "卢",
-    "pinyin": "lú"
+    "pinyin": "lú",
+    "finalSound": "uː, ʊ"
   },
   {
     "initialSound": "r*",
-    "finalSound": "uː, ʊ",
     "zi": "鲁",
-    "pinyin": "lǔ"
+    "pinyin": "lǔ",
+    "finalSound": "uː, ʊ"
   },
   {
     "initialSound": "j",
-    "finalSound": "uː, ʊ",
     "zi": "尤",
-    "pinyin": "yóu"
+    "pinyin": "yóu",
+    "finalSound": "uː, ʊ"
   },
   {
     "initialSound": "ɡʷ",
-    "finalSound": "uː, ʊ",
     "zi": "",
-    "pinyin": ""
+    "pinyin": "",
+    "finalSound": "uː, ʊ"
   },
   {
     "initialSound": "kʷ",
-    "finalSound": "uː, ʊ",
     "zi": "库",
-    "pinyin": "kù"
+    "pinyin": "kù",
+    "finalSound": "uː, ʊ"
   },
   {
     "initialSound": "hʷ",
-    "finalSound": "uː, ʊ",
     "zi": "",
-    "pinyin": ""
+    "pinyin": "",
+    "finalSound": "uː, ʊ"
   },
   {
     "initialSound": "-",
-    "finalSound": "juː, jʊ",
     "zi": "尤",
-    "pinyin": "yóu"
+    "pinyin": "yóu",
+    "finalSound": "juː, jʊ"
   },
   {
     "initialSound": "b",
-    "finalSound": "juː, jʊ",
     "zi": "比尤",
-    "pinyin": "bǐ,yóu"
+    "pinyin": "bǐ,yóu",
+    "finalSound": "juː, jʊ"
   },
   {
     "initialSound": "p",
-    "finalSound": "juː, jʊ",
     "zi": "皮尤",
-    "pinyin": "pí,yóu"
+    "pinyin": "pí,yóu",
+    "finalSound": "juː, jʊ"
   },
   {
     "initialSound": "d",
-    "finalSound": "juː, jʊ",
     "zi": "迪尤",
-    "pinyin": "dí,yóu"
+    "pinyin": "dí,yóu",
+    "finalSound": "juː, jʊ"
   },
   {
     "initialSound": "t",
-    "finalSound": "juː, jʊ",
     "zi": "蒂尤",
-    "pinyin": "dì,yóu"
+    "pinyin": "dì,yóu",
+    "finalSound": "juː, jʊ"
   },
   {
     "initialSound": "g",
-    "finalSound": "juː, jʊ",
     "zi": "久",
-    "pinyin": "jiǔ"
+    "pinyin": "jiǔ",
+    "finalSound": "juː, jʊ"
   },
   {
     "initialSound": "k",
-    "finalSound": "juː, jʊ",
     "zi": "丘",
-    "pinyin": "qiū"
+    "pinyin": "qiū",
+    "finalSound": "juː, jʊ"
   },
   {
     "initialSound": "v",
-    "finalSound": "juː, jʊ",
     "zi": "维尤",
-    "pinyin": "wéi,yóu"
+    "pinyin": "wéi,yóu",
+    "finalSound": "juː, jʊ"
   },
   {
     "initialSound": "w",
-    "finalSound": "juː, jʊ",
     "zi": "威尤",
-    "pinyin": "wēi,yóu"
+    "pinyin": "wēi,yóu",
+    "finalSound": "juː, jʊ"
   },
   {
     "initialSound": "f",
-    "finalSound": "juː, jʊ",
     "zi": "菲尤",
-    "pinyin": "fēi,yóu"
+    "pinyin": "fēi,yóu",
+    "finalSound": "juː, jʊ"
   },
   {
     "initialSound": "z / dz",
-    "finalSound": "juː, jʊ",
     "zi": "久",
-    "pinyin": "jiǔ"
+    "pinyin": "jiǔ",
+    "finalSound": "juː, jʊ"
   },
   {
     "initialSound": "ts",
-    "finalSound": "juː, jʊ",
     "zi": "丘",
-    "pinyin": "qiū"
+    "pinyin": "qiū",
+    "finalSound": "juː, jʊ"
   },
   {
     "initialSound": "s / ð / θ",
-    "finalSound": "juː, jʊ",
     "zi": "休",
-    "pinyin": "xiū"
+    "pinyin": "xiū",
+    "finalSound": "juː, jʊ"
   },
   {
     "initialSound": "ʒ",
-    "finalSound": "juː, jʊ",
     "zi": "",
-    "pinyin": ""
+    "pinyin": "",
+    "finalSound": "juː, jʊ"
   },
   {
     "initialSound": "ʃ",
-    "finalSound": "juː, jʊ",
     "zi": "休",
-    "pinyin": "xiū"
+    "pinyin": "xiū",
+    "finalSound": "juː, jʊ"
   },
   {
     "initialSound": "dʒ",
-    "finalSound": "juː, jʊ",
     "zi": "久",
-    "pinyin": "jiǔ"
+    "pinyin": "jiǔ",
+    "finalSound": "juː, jʊ"
   },
   {
     "initialSound": "tʃ",
-    "finalSound": "juː, jʊ",
     "zi": "丘",
-    "pinyin": "qiū"
+    "pinyin": "qiū",
+    "finalSound": "juː, jʊ"
   },
   {
     "initialSound": "h",
-    "finalSound": "juː, jʊ",
     "zi": "休",
-    "pinyin": "xiū"
+    "pinyin": "xiū",
+    "finalSound": "juː, jʊ"
   },
   {
     "initialSound": "m",
-    "finalSound": "juː, jʊ",
     "zi": "缪",
-    "pinyin": "móu"
+    "pinyin": "móu",
+    "finalSound": "juː, jʊ"
   },
   {
     "initialSound": "n",
-    "finalSound": "juː, jʊ",
     "zi": "纽",
-    "pinyin": "niǔ"
+    "pinyin": "niǔ",
+    "finalSound": "juː, jʊ"
   },
   {
     "initialSound": "l",
-    "finalSound": "juː, jʊ",
     "zi": "柳",
-    "pinyin": "liǔ"
+    "pinyin": "liǔ",
+    "finalSound": "juː, jʊ"
   },
   {
     "initialSound": "r*",
-    "finalSound": "juː, jʊ",
     "zi": "留",
-    "pinyin": "liú"
+    "pinyin": "liú",
+    "finalSound": "juː, jʊ"
   },
   {
     "initialSound": "j",
-    "finalSound": "juː, jʊ",
     "zi": "",
-    "pinyin": ""
+    "pinyin": "",
+    "finalSound": "juː, jʊ"
   },
   {
     "initialSound": "ɡʷ",
-    "finalSound": "juː, jʊ",
     "zi": "",
-    "pinyin": ""
+    "pinyin": "",
+    "finalSound": "juː, jʊ"
   },
   {
     "initialSound": "kʷ",
-    "finalSound": "juː, jʊ",
     "zi": "",
-    "pinyin": ""
+    "pinyin": "",
+    "finalSound": "juː, jʊ"
   },
   {
     "initialSound": "hʷ",
-    "finalSound": "juː, jʊ",
     "zi": "",
-    "pinyin": ""
+    "pinyin": "",
+    "finalSound": "juː, jʊ"
   },
   {
     "initialSound": "-",
-    "finalSound": "aɪ",
     "zi": "艾",
-    "pinyin": "ài"
+    "pinyin": "ài",
+    "finalSound": "aɪ"
   },
   {
     "initialSound": "b",
-    "finalSound": "aɪ",
     "zi": "拜",
-    "pinyin": "bài"
+    "pinyin": "bài",
+    "finalSound": "aɪ"
   },
   {
     "initialSound": "p",
-    "finalSound": "aɪ",
     "zi": "派",
-    "pinyin": "pài"
+    "pinyin": "pài",
+    "finalSound": "aɪ"
   },
   {
     "initialSound": "d",
-    "finalSound": "aɪ",
     "zi": "代 / 戴",
-    "pinyin": "dài, / ,dài"
+    "pinyin": "dài, / ,dài",
+    "finalSound": "aɪ"
   },
   {
     "initialSound": "t",
-    "finalSound": "aɪ",
     "zi": "泰",
-    "pinyin": "tài"
+    "pinyin": "tài",
+    "finalSound": "aɪ"
   },
   {
     "initialSound": "g",
-    "finalSound": "aɪ",
     "zi": "盖",
-    "pinyin": "gài"
+    "pinyin": "gài",
+    "finalSound": "aɪ"
   },
   {
     "initialSound": "k",
-    "finalSound": "aɪ",
     "zi": "凯",
-    "pinyin": "kǎi"
+    "pinyin": "kǎi",
+    "finalSound": "aɪ"
   },
   {
     "initialSound": "v",
-    "finalSound": "aɪ",
     "zi": "韦",
-    "pinyin": "wéi"
+    "pinyin": "wéi",
+    "finalSound": "aɪ"
   },
   {
     "initialSound": "w",
-    "finalSound": "aɪ",
     "zi": "怀",
-    "pinyin": "huái"
+    "pinyin": "huái",
+    "finalSound": "aɪ"
   },
   {
     "initialSound": "f",
-    "finalSound": "aɪ",
     "zi": "法",
-    "pinyin": "fǎ"
+    "pinyin": "fǎ",
+    "finalSound": "aɪ"
   },
   {
     "initialSound": "z / dz",
-    "finalSound": "aɪ",
     "zi": "宰",
-    "pinyin": "zǎi"
+    "pinyin": "zǎi",
+    "finalSound": "aɪ"
   },
   {
     "initialSound": "ts",
-    "finalSound": "aɪ",
     "zi": "蔡",
-    "pinyin": "cài"
+    "pinyin": "cài",
+    "finalSound": "aɪ"
   },
   {
     "initialSound": "s / ð / θ",
-    "finalSound": "aɪ",
     "zi": "赛",
-    "pinyin": "sài"
+    "pinyin": "sài",
+    "finalSound": "aɪ"
   },
   {
     "initialSound": "ʒ",
-    "finalSound": "aɪ",
     "zi": "",
-    "pinyin": ""
+    "pinyin": "",
+    "finalSound": "aɪ"
   },
   {
     "initialSound": "ʃ",
-    "finalSound": "aɪ",
     "zi": "夏",
-    "pinyin": "xià"
+    "pinyin": "xià",
+    "finalSound": "aɪ"
   },
   {
     "initialSound": "dʒ",
-    "finalSound": "aɪ",
     "zi": "贾",
-    "pinyin": "jiǎ"
+    "pinyin": "jiǎ",
+    "finalSound": "aɪ"
   },
   {
     "initialSound": "tʃ",
-    "finalSound": "aɪ",
     "zi": "柴",
-    "pinyin": "chái"
+    "pinyin": "chái",
+    "finalSound": "aɪ"
   },
   {
     "initialSound": "h",
-    "finalSound": "aɪ",
     "zi": "海",
-    "pinyin": "hǎi"
+    "pinyin": "hǎi",
+    "finalSound": "aɪ"
   },
   {
     "initialSound": "m",
-    "finalSound": "aɪ",
     "zi": "迈",
-    "pinyin": "mài"
+    "pinyin": "mài",
+    "finalSound": "aɪ"
   },
   {
     "initialSound": "n",
-    "finalSound": "aɪ",
     "zi": "奈",
-    "pinyin": "nài"
+    "pinyin": "nài",
+    "finalSound": "aɪ"
   },
   {
     "initialSound": "l",
-    "finalSound": "aɪ",
     "zi": "莱",
-    "pinyin": "lái"
+    "pinyin": "lái",
+    "finalSound": "aɪ"
   },
   {
     "initialSound": "r*",
-    "finalSound": "aɪ",
     "zi": "赖",
-    "pinyin": "lài"
+    "pinyin": "lài",
+    "finalSound": "aɪ"
   },
   {
     "initialSound": "j",
-    "finalSound": "aɪ",
     "zi": "耶",
-    "pinyin": "yé"
+    "pinyin": "yé",
+    "finalSound": "aɪ"
   },
   {
     "initialSound": "ɡʷ",
-    "finalSound": "aɪ",
     "zi": "瓜伊",
-    "pinyin": "guā,yī"
+    "pinyin": "guā,yī",
+    "finalSound": "aɪ"
   },
   {
     "initialSound": "kʷ",
-    "finalSound": "aɪ",
     "zi": "夸",
-    "pinyin": "kuā"
+    "pinyin": "kuā",
+    "finalSound": "aɪ"
   },
   {
     "initialSound": "hʷ",
-    "finalSound": "aɪ",
     "zi": "怀",
-    "pinyin": "huái"
+    "pinyin": "huái",
+    "finalSound": "aɪ"
   },
   {
     "initialSound": "-",
-    "finalSound": "aʊ",
     "zi": "奥",
-    "pinyin": "ào"
+    "pinyin": "ào",
+    "finalSound": "aʊ"
   },
   {
     "initialSound": "b",
-    "finalSound": "aʊ",
     "zi": "鲍",
-    "pinyin": "bào"
+    "pinyin": "bào",
+    "finalSound": "aʊ"
   },
   {
     "initialSound": "p",
-    "finalSound": "aʊ",
     "zi": "保",
-    "pinyin": "bǎo"
+    "pinyin": "bǎo",
+    "finalSound": "aʊ"
   },
   {
     "initialSound": "d",
-    "finalSound": "aʊ",
     "zi": "道",
-    "pinyin": "dào"
+    "pinyin": "dào",
+    "finalSound": "aʊ"
   },
   {
     "initialSound": "t",
-    "finalSound": "aʊ",
     "zi": "陶",
-    "pinyin": "táo"
+    "pinyin": "táo",
+    "finalSound": "aʊ"
   },
   {
     "initialSound": "g",
-    "finalSound": "aʊ",
     "zi": "高",
-    "pinyin": "gāo"
+    "pinyin": "gāo",
+    "finalSound": "aʊ"
   },
   {
     "initialSound": "k",
-    "finalSound": "aʊ",
     "zi": "考",
-    "pinyin": "kǎo"
+    "pinyin": "kǎo",
+    "finalSound": "aʊ"
   },
   {
     "initialSound": "v",
-    "finalSound": "aʊ",
     "zi": "沃",
-    "pinyin": "wò"
+    "pinyin": "wò",
+    "finalSound": "aʊ"
   },
   {
     "initialSound": "w",
-    "finalSound": "aʊ",
     "zi": "沃",
-    "pinyin": "wò"
+    "pinyin": "wò",
+    "finalSound": "aʊ"
   },
   {
     "initialSound": "f",
-    "finalSound": "aʊ",
     "zi": "福",
-    "pinyin": "fú"
+    "pinyin": "fú",
+    "finalSound": "aʊ"
   },
   {
     "initialSound": "z / dz",
-    "finalSound": "aʊ",
     "zi": "藻",
-    "pinyin": "zǎo"
+    "pinyin": "zǎo",
+    "finalSound": "aʊ"
   },
   {
     "initialSound": "ts",
-    "finalSound": "aʊ",
     "zi": "曹",
-    "pinyin": "cáo"
+    "pinyin": "cáo",
+    "finalSound": "aʊ"
   },
   {
     "initialSound": "s / ð / θ",
-    "finalSound": "aʊ",
     "zi": "绍",
-    "pinyin": "shào"
+    "pinyin": "shào",
+    "finalSound": "aʊ"
   },
   {
     "initialSound": "ʒ",
-    "finalSound": "aʊ",
     "zi": "",
-    "pinyin": ""
+    "pinyin": "",
+    "finalSound": "aʊ"
   },
   {
     "initialSound": "ʃ",
-    "finalSound": "aʊ",
     "zi": "绍",
-    "pinyin": "shào"
+    "pinyin": "shào",
+    "finalSound": "aʊ"
   },
   {
     "initialSound": "dʒ",
-    "finalSound": "aʊ",
     "zi": "焦",
-    "pinyin": "jiāo"
+    "pinyin": "jiāo",
+    "finalSound": "aʊ"
   },
   {
     "initialSound": "tʃ",
-    "finalSound": "aʊ",
     "zi": "乔",
-    "pinyin": "qiáo"
+    "pinyin": "qiáo",
+    "finalSound": "aʊ"
   },
   {
     "initialSound": "h",
-    "finalSound": "aʊ",
     "zi": "豪",
-    "pinyin": "háo"
+    "pinyin": "háo",
+    "finalSound": "aʊ"
   },
   {
     "initialSound": "m",
-    "finalSound": "aʊ",
     "zi": "毛",
-    "pinyin": "máo"
+    "pinyin": "máo",
+    "finalSound": "aʊ"
   },
   {
     "initialSound": "n",
-    "finalSound": "aʊ",
     "zi": "瑙",
-    "pinyin": "nǎo"
+    "pinyin": "nǎo",
+    "finalSound": "aʊ"
   },
   {
     "initialSound": "l",
-    "finalSound": "aʊ",
     "zi": "劳",
-    "pinyin": "láo"
+    "pinyin": "láo",
+    "finalSound": "aʊ"
   },
   {
     "initialSound": "r*",
-    "finalSound": "aʊ",
     "zi": "劳",
-    "pinyin": "láo"
+    "pinyin": "láo",
+    "finalSound": "aʊ"
   },
   {
     "initialSound": "j",
-    "finalSound": "aʊ",
     "zi": "尧",
-    "pinyin": "yáo"
+    "pinyin": "yáo",
+    "finalSound": "aʊ"
   },
   {
     "initialSound": "ɡʷ",
-    "finalSound": "aʊ",
     "zi": "",
-    "pinyin": ""
+    "pinyin": "",
+    "finalSound": "aʊ"
   },
   {
     "initialSound": "kʷ",
-    "finalSound": "aʊ",
     "zi": "阔",
-    "pinyin": "kuò"
+    "pinyin": "kuò",
+    "finalSound": "aʊ"
   },
   {
     "initialSound": "hʷ",
-    "finalSound": "aʊ",
     "zi": "",
-    "pinyin": ""
+    "pinyin": "",
+    "finalSound": "aʊ"
   },
   {
     "initialSound": "-",
-    "finalSound": "æn, ʌn, æŋ",
     "zi": "安",
-    "pinyin": "ān"
+    "pinyin": "ān",
+    "finalSound": "æn, ʌn, æŋ"
   },
   {
     "initialSound": "b",
-    "finalSound": "æn, ʌn, æŋ",
     "zi": "班",
-    "pinyin": "bān"
+    "pinyin": "bān",
+    "finalSound": "æn, ʌn, æŋ"
   },
   {
     "initialSound": "p",
-    "finalSound": "æn, ʌn, æŋ",
     "zi": "潘",
-    "pinyin": "pān"
+    "pinyin": "pān",
+    "finalSound": "æn, ʌn, æŋ"
   },
   {
     "initialSound": "d",
-    "finalSound": "æn, ʌn, æŋ",
     "zi": "丹",
-    "pinyin": "dān"
+    "pinyin": "dān",
+    "finalSound": "æn, ʌn, æŋ"
   },
   {
     "initialSound": "t",
-    "finalSound": "æn, ʌn, æŋ",
     "zi": "坦",
-    "pinyin": "tǎn"
+    "pinyin": "tǎn",
+    "finalSound": "æn, ʌn, æŋ"
   },
   {
     "initialSound": "g",
-    "finalSound": "æn, ʌn, æŋ",
     "zi": "甘",
-    "pinyin": "gān"
+    "pinyin": "gān",
+    "finalSound": "æn, ʌn, æŋ"
   },
   {
     "initialSound": "k",
-    "finalSound": "æn, ʌn, æŋ",
     "zi": "坎",
-    "pinyin": "kǎn"
+    "pinyin": "kǎn",
+    "finalSound": "æn, ʌn, æŋ"
   },
   {
     "initialSound": "v",
-    "finalSound": "æn, ʌn, æŋ",
     "zi": "万",
-    "pinyin": "wàn"
+    "pinyin": "wàn",
+    "finalSound": "æn, ʌn, æŋ"
   },
   {
     "initialSound": "w",
-    "finalSound": "æn, ʌn, æŋ",
     "zi": "万",
-    "pinyin": "wàn"
+    "pinyin": "wàn",
+    "finalSound": "æn, ʌn, æŋ"
   },
   {
     "initialSound": "f",
-    "finalSound": "æn, ʌn, æŋ",
     "zi": "凡",
-    "pinyin": "fán"
+    "pinyin": "fán",
+    "finalSound": "æn, ʌn, æŋ"
   },
   {
     "initialSound": "z / dz",
-    "finalSound": "æn, ʌn, æŋ",
     "zi": "赞",
-    "pinyin": "zàn"
+    "pinyin": "zàn",
+    "finalSound": "æn, ʌn, æŋ"
   },
   {
     "initialSound": "ts",
-    "finalSound": "æn, ʌn, æŋ",
     "zi": "灿",
-    "pinyin": "càn"
+    "pinyin": "càn",
+    "finalSound": "æn, ʌn, æŋ"
   },
   {
     "initialSound": "s / ð / θ",
-    "finalSound": "æn, ʌn, æŋ",
     "zi": "桑",
-    "pinyin": "sāng"
+    "pinyin": "sāng",
+    "finalSound": "æn, ʌn, æŋ"
   },
   {
     "initialSound": "ʒ",
-    "finalSound": "æn, ʌn, æŋ",
     "zi": "",
-    "pinyin": ""
+    "pinyin": "",
+    "finalSound": "æn, ʌn, æŋ"
   },
   {
     "initialSound": "ʃ",
-    "finalSound": "æn, ʌn, æŋ",
     "zi": "尚",
-    "pinyin": "shàng"
+    "pinyin": "shàng",
+    "finalSound": "æn, ʌn, æŋ"
+  },
+  {
+    "initialSound": "ʃ",
+    "zi": "尚",
+    "pinyin": "shàng",
+    "finalSound": "æn, ʌn, æŋ"
   },
   {
     "initialSound": "dʒ",
-    "finalSound": "æn, ʌn, æŋ",
     "zi": "詹",
-    "pinyin": "zhān"
+    "pinyin": "zhān",
+    "finalSound": "æn, ʌn, æŋ"
   },
   {
     "initialSound": "tʃ",
-    "finalSound": "æn, ʌn, æŋ",
     "zi": "钱",
-    "pinyin": "qián"
+    "pinyin": "qián",
+    "finalSound": "æn, ʌn, æŋ"
   },
   {
     "initialSound": "h",
-    "finalSound": "æn, ʌn, æŋ",
     "zi": "汉",
-    "pinyin": "hàn"
+    "pinyin": "hàn",
+    "finalSound": "æn, ʌn, æŋ"
   },
   {
     "initialSound": "m",
-    "finalSound": "æn, ʌn, æŋ",
     "zi": "曼",
-    "pinyin": "màn"
+    "pinyin": "màn",
+    "finalSound": "æn, ʌn, æŋ"
   },
   {
     "initialSound": "n",
-    "finalSound": "æn, ʌn, æŋ",
     "zi": "南",
-    "pinyin": "nán"
+    "pinyin": "nán",
+    "finalSound": "æn, ʌn, æŋ"
+  },
+  {
+    "initialSound": "n",
+    "zi": "南",
+    "pinyin": "nán",
+    "finalSound": "æn, ʌn, æŋ"
   },
   {
     "initialSound": "l",
-    "finalSound": "æn, ʌn, æŋ",
     "zi": "兰",
-    "pinyin": "lán"
+    "pinyin": "lán",
+    "finalSound": "æn, ʌn, æŋ"
   },
   {
     "initialSound": "r*",
-    "finalSound": "æn, ʌn, æŋ",
     "zi": "兰",
-    "pinyin": "lán"
+    "pinyin": "lán",
+    "finalSound": "æn, ʌn, æŋ"
   },
   {
     "initialSound": "j",
-    "finalSound": "æn, ʌn, æŋ",
     "zi": "扬",
-    "pinyin": "yáng"
+    "pinyin": "yáng",
+    "finalSound": "æn, ʌn, æŋ"
+  },
+  {
+    "initialSound": "j",
+    "zi": "扬",
+    "pinyin": "yáng",
+    "finalSound": "æn, ʌn, æŋ"
   },
   {
     "initialSound": "ɡʷ",
-    "finalSound": "æn, ʌn, æŋ",
     "zi": "关",
-    "pinyin": "guān"
+    "pinyin": "guān",
+    "finalSound": "æn, ʌn, æŋ"
   },
   {
     "initialSound": "kʷ",
-    "finalSound": "æn, ʌn, æŋ",
     "zi": "宽",
-    "pinyin": "kuān"
+    "pinyin": "kuān",
+    "finalSound": "æn, ʌn, æŋ"
   },
   {
     "initialSound": "hʷ",
-    "finalSound": "æn, ʌn, æŋ",
     "zi": "环",
-    "pinyin": "huán"
+    "pinyin": "huán",
+    "finalSound": "æn, ʌn, æŋ"
   },
   {
     "initialSound": "-",
-    "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ",
     "zi": "昂",
-    "pinyin": "áng"
+    "pinyin": "áng",
+    "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ"
   },
   {
     "initialSound": "b",
-    "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ",
     "zi": "邦",
-    "pinyin": "bāng"
+    "pinyin": "bāng",
+    "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ"
   },
   {
     "initialSound": "p",
-    "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ",
     "zi": "庞",
-    "pinyin": "páng"
+    "pinyin": "páng",
+    "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ"
   },
   {
     "initialSound": "d",
-    "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ",
     "zi": "当",
-    "pinyin": "dāng"
+    "pinyin": "dāng",
+    "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ"
   },
   {
     "initialSound": "t",
-    "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ",
     "zi": "唐",
-    "pinyin": "táng"
+    "pinyin": "táng",
+    "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ"
   },
   {
     "initialSound": "g",
-    "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ",
     "zi": "冈",
-    "pinyin": "gāng"
+    "pinyin": "gāng",
+    "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ"
   },
   {
     "initialSound": "k",
-    "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ",
     "zi": "康",
-    "pinyin": "kāng"
+    "pinyin": "kāng",
+    "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ"
   },
   {
     "initialSound": "v",
-    "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ",
     "zi": "旺",
-    "pinyin": "wàng"
+    "pinyin": "wàng",
+    "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ"
   },
   {
     "initialSound": "w",
-    "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ",
     "zi": "旺",
-    "pinyin": "wàng"
+    "pinyin": "wàng",
+    "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ"
   },
   {
     "initialSound": "f",
-    "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ",
     "zi": "方",
-    "pinyin": "fāng"
+    "pinyin": "fāng",
+    "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ"
   },
   {
     "initialSound": "z / dz",
-    "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ",
     "zi": "藏",
-    "pinyin": "cáng"
+    "pinyin": "cáng",
+    "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ"
   },
   {
     "initialSound": "ts",
-    "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ",
     "zi": "仓",
-    "pinyin": "cāng"
+    "pinyin": "cāng",
+    "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ"
   },
   {
     "initialSound": "s / ð / θ",
-    "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ",
     "zi": "桑",
-    "pinyin": "sāng"
+    "pinyin": "sāng",
+    "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ"
   },
   {
     "initialSound": "ʒ",
-    "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ",
     "zi": "让",
-    "pinyin": "ràng"
+    "pinyin": "ràng",
+    "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ"
   },
   {
     "initialSound": "ʃ",
-    "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ",
     "zi": "章",
-    "pinyin": "zhāng"
+    "pinyin": "zhāng",
+    "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ"
   },
   {
     "initialSound": "dʒ",
-    "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ",
     "zi": "昌",
-    "pinyin": "chāng"
+    "pinyin": "chāng",
+    "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ"
   },
   {
     "initialSound": "tʃ",
-    "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ",
     "zi": "杭",
-    "pinyin": "háng"
+    "pinyin": "háng",
+    "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ"
   },
   {
     "initialSound": "h",
-    "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ",
     "zi": "芒",
-    "pinyin": "máng"
+    "pinyin": "máng",
+    "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ"
   },
   {
     "initialSound": "m",
-    "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ",
     "zi": "朗",
-    "pinyin": "lǎng"
+    "pinyin": "lǎng",
+    "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ"
   },
   {
     "initialSound": "n",
-    "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ",
     "zi": "朗",
-    "pinyin": "lǎng"
+    "pinyin": "lǎng",
+    "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ"
   },
   {
     "initialSound": "l",
-    "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ",
     "zi": "光",
-    "pinyin": "guāng"
+    "pinyin": "guāng",
+    "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ"
   },
   {
     "initialSound": "r*",
-    "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ",
     "zi": "匡",
-    "pinyin": "kuāng"
+    "pinyin": "kuāng",
+    "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ"
   },
   {
     "initialSound": "j",
-    "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ",
     "zi": "黄",
-    "pinyin": "huáng"
+    "pinyin": "huáng",
+    "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ"
   },
   {
     "initialSound": "-",
-    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ",
     "zi": "恩",
-    "pinyin": "ēn"
+    "pinyin": "ēn",
+    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ"
   },
   {
     "initialSound": "b",
-    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ",
     "zi": "本",
-    "pinyin": "běn"
+    "pinyin": "běn",
+    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ"
   },
   {
     "initialSound": "p",
-    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ",
     "zi": "彭",
-    "pinyin": "péng"
+    "pinyin": "péng",
+    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ"
   },
   {
     "initialSound": "d",
-    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ",
     "zi": "登",
-    "pinyin": "dēng"
+    "pinyin": "dēng",
+    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ"
   },
   {
     "initialSound": "t",
-    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ",
     "zi": "滕",
-    "pinyin": "téng"
+    "pinyin": "téng",
+    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ"
   },
   {
     "initialSound": "g",
-    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ",
     "zi": "根",
-    "pinyin": "gēn"
+    "pinyin": "gēn",
+    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ"
   },
   {
     "initialSound": "k",
-    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ",
     "zi": "肯",
-    "pinyin": "kěn"
+    "pinyin": "kěn",
+    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ"
   },
   {
     "initialSound": "v",
-    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ",
     "zi": "文",
-    "pinyin": "wén"
+    "pinyin": "wén",
+    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ"
   },
   {
     "initialSound": "w",
-    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ",
     "zi": "文",
-    "pinyin": "wén"
+    "pinyin": "wén",
+    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ"
   },
   {
     "initialSound": "f",
-    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ",
     "zi": "芬",
-    "pinyin": "fēn"
+    "pinyin": "fēn",
+    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ"
   },
   {
     "initialSound": "z / dz",
-    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ",
     "zi": "曾",
-    "pinyin": "zēng"
+    "pinyin": "zēng",
+    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ"
   },
   {
     "initialSound": "ts",
-    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ",
     "zi": "岑",
-    "pinyin": "cén"
+    "pinyin": "cén",
+    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ"
   },
   {
     "initialSound": "s / ð / θ",
-    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ",
     "zi": "森",
-    "pinyin": "sēn"
+    "pinyin": "sēn",
+    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ"
   },
   {
     "initialSound": "ʒ",
-    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ",
     "zi": "任",
-    "pinyin": "rèn"
+    "pinyin": "rèn",
+    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ"
   },
   {
     "initialSound": "ʃ",
-    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ",
     "zi": "申",
-    "pinyin": "shēn"
+    "pinyin": "shēn",
+    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ"
   },
   {
     "initialSound": "dʒ",
-    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ",
     "zi": "真",
-    "pinyin": "zhēn"
+    "pinyin": "zhēn",
+    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ"
   },
   {
     "initialSound": "tʃ",
-    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ",
     "zi": "琴",
-    "pinyin": "qín"
+    "pinyin": "qín",
+    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ"
   },
   {
     "initialSound": "h",
-    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ",
     "zi": "亨",
-    "pinyin": "hēng"
+    "pinyin": "hēng",
+    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ"
   },
   {
     "initialSound": "m",
-    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ",
     "zi": "门",
-    "pinyin": "mén"
+    "pinyin": "mén",
+    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ"
   },
   {
     "initialSound": "n",
-    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ",
     "zi": "嫩",
-    "pinyin": "nèn"
+    "pinyin": "nèn",
+    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ"
   },
   {
     "initialSound": "l",
-    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ",
     "zi": "伦",
-    "pinyin": "lún"
+    "pinyin": "lún",
+    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ"
   },
   {
     "initialSound": "r*",
-    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ",
     "zi": "伦",
-    "pinyin": "lún"
+    "pinyin": "lún",
+    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ"
   },
   {
     "initialSound": "j",
-    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ",
     "zi": "延",
-    "pinyin": "yán"
+    "pinyin": "yán",
+    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ"
   },
   {
     "initialSound": "ɡʷ",
-    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ",
     "zi": "古恩",
-    "pinyin": "gǔ,ēn"
+    "pinyin": "gǔ,ēn",
+    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ"
   },
   {
     "initialSound": "kʷ",
-    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ",
     "zi": "昆",
-    "pinyin": "kūn"
+    "pinyin": "kūn",
+    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ"
   },
   {
     "initialSound": "hʷ",
-    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ",
     "zi": "",
-    "pinyin": ""
+    "pinyin": "",
+    "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ"
   },
   {
     "initialSound": "-",
-    "finalSound": "ɪn, in, ɪən, jən",
     "zi": "因",
-    "pinyin": "yīn"
+    "pinyin": "yīn",
+    "finalSound": "ɪn, in, ɪən, jən"
   },
   {
     "initialSound": "b",
-    "finalSound": "ɪn, in, ɪən, jən",
     "zi": "宾",
-    "pinyin": "bīn"
+    "pinyin": "bīn",
+    "finalSound": "ɪn, in, ɪən, jən"
+  },
+  {
+    "initialSound": "b",
+    "zi": "宾",
+    "pinyin": "bīn",
+    "finalSound": "ɪn, in, ɪən, jən"
   },
   {
     "initialSound": "p",
-    "finalSound": "ɪn, in, ɪən, jən",
     "zi": "平",
-    "pinyin": "píng"
+    "pinyin": "píng",
+    "finalSound": "ɪn, in, ɪən, jən"
+  },
+  {
+    "initialSound": "p",
+    "zi": "平",
+    "pinyin": "píng",
+    "finalSound": "ɪn, in, ɪən, jən"
   },
   {
     "initialSound": "d",
-    "finalSound": "ɪn, in, ɪən, jən",
     "zi": "丁",
-    "pinyin": "dīng"
+    "pinyin": "dīng",
+    "finalSound": "ɪn, in, ɪən, jən"
+  },
+  {
+    "initialSound": "d",
+    "zi": "丁",
+    "pinyin": "dīng",
+    "finalSound": "ɪn, in, ɪən, jən"
   },
   {
     "initialSound": "t",
-    "finalSound": "ɪn, in, ɪən, jən",
     "zi": "廷",
-    "pinyin": "tíng"
+    "pinyin": "tíng",
+    "finalSound": "ɪn, in, ɪən, jən"
+  },
+  {
+    "initialSound": "t",
+    "zi": "廷",
+    "pinyin": "tíng",
+    "finalSound": "ɪn, in, ɪən, jən"
   },
   {
     "initialSound": "g",
-    "finalSound": "ɪn, in, ɪən, jən",
     "zi": "金",
-    "pinyin": "jīn"
+    "pinyin": "jīn",
+    "finalSound": "ɪn, in, ɪən, jən"
   },
   {
     "initialSound": "k",
-    "finalSound": "ɪn, in, ɪən, jən",
     "zi": "金",
-    "pinyin": "jīn"
+    "pinyin": "jīn",
+    "finalSound": "ɪn, in, ɪən, jən"
   },
   {
     "initialSound": "v",
-    "finalSound": "ɪn, in, ɪən, jən",
     "zi": "温",
-    "pinyin": "wēn"
+    "pinyin": "wēn",
+    "finalSound": "ɪn, in, ɪən, jən"
+  },
+  {
+    "initialSound": "v",
+    "zi": "温",
+    "pinyin": "wēn",
+    "finalSound": "ɪn, in, ɪən, jən"
   },
   {
     "initialSound": "w",
-    "finalSound": "ɪn, in, ɪən, jən",
     "zi": "温",
-    "pinyin": "wēn"
+    "pinyin": "wēn",
+    "finalSound": "ɪn, in, ɪən, jən"
   },
   {
     "initialSound": "f",
-    "finalSound": "ɪn, in, ɪən, jən",
     "zi": "芬",
-    "pinyin": "fēn"
+    "pinyin": "fēn",
+    "finalSound": "ɪn, in, ɪən, jən"
+  },
+  {
+    "initialSound": "f",
+    "zi": "芬",
+    "pinyin": "fēn",
+    "finalSound": "ɪn, in, ɪən, jən"
   },
   {
     "initialSound": "z / dz",
-    "finalSound": "ɪn, in, ɪən, jən",
     "zi": "津",
-    "pinyin": "jīn"
+    "pinyin": "jīn",
+    "finalSound": "ɪn, in, ɪən, jən"
   },
   {
     "initialSound": "ts",
-    "finalSound": "ɪn, in, ɪən, jən",
     "zi": "欣",
-    "pinyin": "xīn"
+    "pinyin": "xīn",
+    "finalSound": "ɪn, in, ɪən, jən"
   },
   {
     "initialSound": "s / ð / θ",
-    "finalSound": "ɪn, in, ɪən, jən",
     "zi": "辛",
-    "pinyin": "xīn"
+    "pinyin": "xīn",
+    "finalSound": "ɪn, in, ɪən, jən"
+  },
+  {
+    "initialSound": "s / ð / θ",
+    "zi": "辛",
+    "pinyin": "xīn",
+    "finalSound": "ɪn, in, ɪən, jən"
   },
   {
     "initialSound": "ʒ",
-    "finalSound": "ɪn, in, ɪən, jən",
     "zi": "",
-    "pinyin": ""
+    "pinyin": "",
+    "finalSound": "ɪn, in, ɪən, jən"
   },
   {
     "initialSound": "ʃ",
-    "finalSound": "ɪn, in, ɪən, jən",
     "zi": "欣",
-    "pinyin": "xīn"
+    "pinyin": "xīn",
+    "finalSound": "ɪn, in, ɪən, jən"
   },
   {
     "initialSound": "dʒ",
-    "finalSound": "ɪn, in, ɪən, jən",
     "zi": "金",
-    "pinyin": "jīn"
+    "pinyin": "jīn",
+    "finalSound": "ɪn, in, ɪən, jən"
   },
   {
     "initialSound": "tʃ",
-    "finalSound": "ɪn, in, ɪən, jən",
     "zi": "钦",
-    "pinyin": "qīn"
+    "pinyin": "qīn",
+    "finalSound": "ɪn, in, ɪən, jən"
   },
   {
     "initialSound": "h",
-    "finalSound": "ɪn, in, ɪən, jən",
     "zi": "欣",
-    "pinyin": "xīn"
+    "pinyin": "xīn",
+    "finalSound": "ɪn, in, ɪən, jən"
   },
   {
     "initialSound": "m",
-    "finalSound": "ɪn, in, ɪən, jən",
     "zi": "明",
-    "pinyin": "míng"
-  },
-  {
-    "initialSound": "n",
-    "finalSound": "ɪn, in, ɪən, jən",
-    "zi": "宁",
-    "pinyin": "níng"
-  },
-  {
-    "initialSound": "l",
-    "finalSound": "ɪn, in, ɪən, jən",
-    "zi": "林 / 琳",
-    "pinyin": "lín, / ,lín"
-  },
-  {
-    "initialSound": "r*",
-    "finalSound": "ɪn, in, ɪən, jən",
-    "zi": "林 / 琳",
-    "pinyin": "lín, / ,lín"
-  },
-  {
-    "initialSound": "j",
-    "finalSound": "ɪn, in, ɪən, jən",
-    "zi": "因",
-    "pinyin": "yīn"
-  },
-  {
-    "initialSound": "ɡʷ",
-    "finalSound": "ɪn, in, ɪən, jən",
-    "zi": "古因",
-    "pinyin": "gǔ,yīn"
-  },
-  {
-    "initialSound": "kʷ",
-    "finalSound": "ɪn, in, ɪən, jən",
-    "zi": "昆",
-    "pinyin": "kūn"
-  },
-  {
-    "initialSound": "hʷ",
-    "finalSound": "ɪn, in, ɪən, jən",
-    "zi": "",
-    "pinyin": ""
-  },
-  {
-    "initialSound": "-",
-    "finalSound": "ɪŋ",
-    "zi": "英",
-    "pinyin": "yīng"
-  },
-  {
-    "initialSound": "b",
-    "finalSound": "ɪŋ",
-    "zi": "京",
-    "pinyin": "jīng"
-  },
-  {
-    "initialSound": "p",
-    "finalSound": "ɪŋ",
-    "zi": "金",
-    "pinyin": "jīn"
-  },
-  {
-    "initialSound": "d",
-    "finalSound": "ɪŋ",
-    "zi": "京",
-    "pinyin": "jīng"
-  },
-  {
-    "initialSound": "t",
-    "finalSound": "ɪŋ",
-    "zi": "青",
-    "pinyin": "qīng"
-  },
-  {
-    "initialSound": "g",
-    "finalSound": "ɪŋ",
-    "zi": "",
-    "pinyin": ""
-  },
-  {
-    "initialSound": "k",
-    "finalSound": "ɪŋ",
-    "zi": "兴",
-    "pinyin": "xīng"
-  },
-  {
-    "initialSound": "v",
-    "finalSound": "ɪŋ",
-    "zi": "京",
-    "pinyin": "jīng"
-  },
-  {
-    "initialSound": "w",
-    "finalSound": "ɪŋ",
-    "zi": "青",
-    "pinyin": "qīng"
-  },
-  {
-    "initialSound": "f",
-    "finalSound": "ɪŋ",
-    "zi": "兴",
-    "pinyin": "xīng"
-  },
-  {
-    "initialSound": "z / dz",
-    "finalSound": "ɪŋ",
-    "zi": "英",
-    "pinyin": "yīng"
-  },
-  {
-    "initialSound": "ts",
-    "finalSound": "ɪŋ",
-    "zi": "古英",
-    "pinyin": "gǔ,yīng"
-  },
-  {
-    "initialSound": "s / ð / θ",
-    "finalSound": "ɪŋ",
-    "zi": "",
-    "pinyin": ""
-  },
-  {
-    "initialSound": "ʒ",
-    "finalSound": "ɪŋ",
-    "zi": "",
-    "pinyin": ""
-  },
-  {
-    "initialSound": "-",
-    "finalSound": "un, ʊn, oʊn",
-    "zi": "温",
-    "pinyin": "wēn"
-  },
-  {
-    "initialSound": "b",
-    "finalSound": "un, ʊn, oʊn",
-    "zi": "本",
-    "pinyin": "běn"
-  },
-  {
-    "initialSound": "p",
-    "finalSound": "un, ʊn, oʊn",
-    "zi": "蓬",
-    "pinyin": "péng"
-  },
-  {
-    "initialSound": "d",
-    "finalSound": "un, ʊn, oʊn",
-    "zi": "敦",
-    "pinyin": "dūn"
-  },
-  {
-    "initialSound": "t",
-    "finalSound": "un, ʊn, oʊn",
-    "zi": "通",
-    "pinyin": "tōng"
-  },
-  {
-    "initialSound": "g",
-    "finalSound": "un, ʊn, oʊn",
-    "zi": "贡",
-    "pinyin": "gòng"
-  },
-  {
-    "initialSound": "k",
-    "finalSound": "un, ʊn, oʊn",
-    "zi": "昆",
-    "pinyin": "kūn"
-  },
-  {
-    "initialSound": "v",
-    "finalSound": "un, ʊn, oʊn",
-    "zi": "文",
-    "pinyin": "wén"
-  },
-  {
-    "initialSound": "w",
-    "finalSound": "un, ʊn, oʊn",
-    "zi": "文",
-    "pinyin": "wén"
-  },
-  {
-    "initialSound": "f",
-    "finalSound": "un, ʊn, oʊn",
-    "zi": "丰",
-    "pinyin": "fēng"
-  },
-  {
-    "initialSound": "z / dz",
-    "finalSound": "un, ʊn, oʊn",
-    "zi": "尊",
-    "pinyin": "zūn"
-  },
-  {
-    "initialSound": "ts",
-    "finalSound": "un, ʊn, oʊn",
-    "zi": "聪",
-    "pinyin": "cōng"
-  },
-  {
-    "initialSound": "s / ð / θ",
-    "finalSound": "un, ʊn, oʊn",
-    "zi": "孙",
-    "pinyin": "sūn"
-  },
-  {
-    "initialSound": "ʒ",
-    "finalSound": "un, ʊn, oʊn",
-    "zi": "",
-    "pinyin": ""
-  },
-  {
-    "initialSound": "ʃ",
-    "finalSound": "un, ʊn, oʊn",
-    "zi": "顺",
-    "pinyin": "shùn"
-  },
-  {
-    "initialSound": "dʒ",
-    "finalSound": "un, ʊn, oʊn",
-    "zi": "准",
-    "pinyin": "zhǔn"
-  },
-  {
-    "initialSound": "tʃ",
-    "finalSound": "un, ʊn, oʊn",
-    "zi": "春",
-    "pinyin": "chūn"
-  },
-  {
-    "initialSound": "h",
-    "finalSound": "un, ʊn, oʊn",
-    "zi": "洪",
-    "pinyin": "hóng"
+    "pinyin": "míng",
+    "finalSound": "ɪn, in, ɪən, jən"
   },
   {
     "initialSound": "m",
-    "finalSound": "un, ʊn, oʊn",
-    "zi": "蒙",
-    "pinyin": "mēng"
+    "zi": "明",
+    "pinyin": "míng",
+    "finalSound": "ɪn, in, ɪən, jən"
   },
   {
     "initialSound": "n",
-    "finalSound": "un, ʊn, oʊn",
-    "zi": "农",
-    "pinyin": "nóng"
+    "zi": "宁",
+    "pinyin": "níng",
+    "finalSound": "ɪn, in, ɪən, jən"
+  },
+  {
+    "initialSound": "n",
+    "zi": "宁",
+    "pinyin": "níng",
+    "finalSound": "ɪn, in, ɪən, jən"
   },
   {
     "initialSound": "l",
-    "finalSound": "un, ʊn, oʊn",
-    "zi": "伦",
-    "pinyin": "lún"
+    "zi": "林 / 琳",
+    "pinyin": "lín, / ,lín",
+    "finalSound": "ɪn, in, ɪən, jən"
+  },
+  {
+    "initialSound": "l",
+    "zi": "林 / 琳",
+    "pinyin": "lín, / ,lín",
+    "finalSound": "ɪn, in, ɪən, jən"
   },
   {
     "initialSound": "r*",
-    "finalSound": "un, ʊn, oʊn",
-    "zi": "伦",
-    "pinyin": "lún"
+    "zi": "林 / 琳",
+    "pinyin": "lín, / ,lín",
+    "finalSound": "ɪn, in, ɪən, jən"
   },
   {
     "initialSound": "j",
-    "finalSound": "un, ʊn, oʊn",
-    "zi": "云",
-    "pinyin": "yún"
+    "zi": "因",
+    "pinyin": "yīn",
+    "finalSound": "ɪn, in, ɪən, jən"
   },
   {
     "initialSound": "ɡʷ",
-    "finalSound": "un, ʊn, oʊn",
-    "zi": "",
-    "pinyin": ""
+    "zi": "古因",
+    "pinyin": "gǔ,yīn",
+    "finalSound": "ɪn, in, ɪən, jən"
   },
   {
     "initialSound": "kʷ",
-    "finalSound": "un, ʊn, oʊn",
-    "zi": "",
-    "pinyin": ""
+    "zi": "昆",
+    "pinyin": "kūn",
+    "finalSound": "ɪn, in, ɪən, jən"
   },
   {
     "initialSound": "hʷ",
-    "finalSound": "un, ʊn, oʊn",
     "zi": "",
-    "pinyin": ""
+    "pinyin": "",
+    "finalSound": "ɪn, in, ɪən, jən"
   },
   {
     "initialSound": "-",
-    "finalSound": "ʊŋ",
-    "zi": "翁 / 宏",
-    "pinyin": "wēng, / ,hóng"
+    "zi": "英",
+    "pinyin": "yīng",
+    "finalSound": "ɪŋ"
   },
   {
     "initialSound": "b",
-    "finalSound": "ʊŋ",
-    "zi": "邦",
-    "pinyin": "bāng"
+    "zi": "京",
+    "pinyin": "jīng",
+    "finalSound": "ɪŋ"
   },
   {
     "initialSound": "p",
-    "finalSound": "ʊŋ",
-    "zi": "东",
-    "pinyin": "dōng"
+    "zi": "金",
+    "pinyin": "jīn",
+    "finalSound": "ɪŋ"
   },
   {
     "initialSound": "d",
-    "finalSound": "ʊŋ",
-    "zi": "孔",
-    "pinyin": "kǒng"
+    "zi": "京",
+    "pinyin": "jīng",
+    "finalSound": "ɪŋ"
   },
   {
     "initialSound": "t",
-    "finalSound": "ʊŋ",
-    "zi": "翁",
-    "pinyin": "wēng"
+    "zi": "青",
+    "pinyin": "qīng",
+    "finalSound": "ɪŋ"
   },
   {
     "initialSound": "g",
-    "finalSound": "ʊŋ",
-    "zi": "翁",
-    "pinyin": "wēng"
+    "zi": "",
+    "pinyin": "",
+    "finalSound": "ɪŋ"
   },
   {
     "initialSound": "k",
-    "finalSound": "ʊŋ",
-    "zi": "宗",
-    "pinyin": "zōng"
+    "zi": "兴",
+    "pinyin": "xīng",
+    "finalSound": "ɪŋ"
   },
   {
     "initialSound": "v",
-    "finalSound": "ʊŋ",
-    "zi": "松",
-    "pinyin": "sōng"
+    "zi": "京",
+    "pinyin": "jīng",
+    "finalSound": "ɪŋ"
   },
   {
     "initialSound": "w",
-    "finalSound": "ʊŋ",
-    "zi": "容",
-    "pinyin": "róng"
+    "zi": "青",
+    "pinyin": "qīng",
+    "finalSound": "ɪŋ"
   },
   {
     "initialSound": "f",
-    "finalSound": "ʊŋ",
-    "zi": "雄",
-    "pinyin": "xióng"
+    "zi": "兴",
+    "pinyin": "xīng",
+    "finalSound": "ɪŋ"
   },
   {
     "initialSound": "z / dz",
-    "finalSound": "ʊŋ",
-    "zi": "琼",
-    "pinyin": "qióng"
+    "zi": "英",
+    "pinyin": "yīng",
+    "finalSound": "ɪŋ"
   },
   {
     "initialSound": "ts",
-    "finalSound": "ʊŋ",
-    "zi": "琼",
-    "pinyin": "qióng"
+    "zi": "古英",
+    "pinyin": "gǔ,yīng",
+    "finalSound": "ɪŋ"
   },
   {
     "initialSound": "s / ð / θ",
-    "finalSound": "ʊŋ",
-    "zi": "隆",
-    "pinyin": "lóng"
+    "zi": "",
+    "pinyin": "",
+    "finalSound": "ɪŋ"
   },
   {
     "initialSound": "ʒ",
-    "finalSound": "ʊŋ",
-    "zi": "龙",
-    "pinyin": "lóng"
+    "zi": "",
+    "pinyin": "",
+    "finalSound": "ɪŋ"
+  },
+  {
+    "initialSound": "-",
+    "zi": "温",
+    "pinyin": "wēn",
+    "finalSound": "un, ʊn, oʊn"
+  },
+  {
+    "initialSound": "b",
+    "zi": "本",
+    "pinyin": "běn",
+    "finalSound": "un, ʊn, oʊn"
+  },
+  {
+    "initialSound": "p",
+    "zi": "蓬",
+    "pinyin": "péng",
+    "finalSound": "un, ʊn, oʊn"
+  },
+  {
+    "initialSound": "p",
+    "zi": "蓬",
+    "pinyin": "péng",
+    "finalSound": "un, ʊn, oʊn"
+  },
+  {
+    "initialSound": "d",
+    "zi": "敦",
+    "pinyin": "dūn",
+    "finalSound": "un, ʊn, oʊn"
+  },
+  {
+    "initialSound": "t",
+    "zi": "通",
+    "pinyin": "tōng",
+    "finalSound": "un, ʊn, oʊn"
+  },
+  {
+    "initialSound": "t",
+    "zi": "通",
+    "pinyin": "tōng",
+    "finalSound": "un, ʊn, oʊn"
+  },
+  {
+    "initialSound": "g",
+    "zi": "贡",
+    "pinyin": "gòng",
+    "finalSound": "un, ʊn, oʊn"
+  },
+  {
+    "initialSound": "g",
+    "zi": "贡",
+    "pinyin": "gòng",
+    "finalSound": "un, ʊn, oʊn"
+  },
+  {
+    "initialSound": "k",
+    "zi": "昆",
+    "pinyin": "kūn",
+    "finalSound": "un, ʊn, oʊn"
+  },
+  {
+    "initialSound": "v",
+    "zi": "文",
+    "pinyin": "wén",
+    "finalSound": "un, ʊn, oʊn"
+  },
+  {
+    "initialSound": "w",
+    "zi": "文",
+    "pinyin": "wén",
+    "finalSound": "un, ʊn, oʊn"
+  },
+  {
+    "initialSound": "f",
+    "zi": "丰",
+    "pinyin": "fēng",
+    "finalSound": "un, ʊn, oʊn"
+  },
+  {
+    "initialSound": "f",
+    "zi": "丰",
+    "pinyin": "fēng",
+    "finalSound": "un, ʊn, oʊn"
+  },
+  {
+    "initialSound": "z / dz",
+    "zi": "尊",
+    "pinyin": "zūn",
+    "finalSound": "un, ʊn, oʊn"
+  },
+  {
+    "initialSound": "ts",
+    "zi": "聪",
+    "pinyin": "cōng",
+    "finalSound": "un, ʊn, oʊn"
+  },
+  {
+    "initialSound": "ts",
+    "zi": "聪",
+    "pinyin": "cōng",
+    "finalSound": "un, ʊn, oʊn"
+  },
+  {
+    "initialSound": "s / ð / θ",
+    "zi": "孙",
+    "pinyin": "sūn",
+    "finalSound": "un, ʊn, oʊn"
+  },
+  {
+    "initialSound": "ʒ",
+    "zi": "",
+    "pinyin": "",
+    "finalSound": "un, ʊn, oʊn"
   },
   {
     "initialSound": "ʃ",
-    "finalSound": "ʊŋ",
-    "zi": "永",
-    "pinyin": "yǒng"
+    "zi": "顺",
+    "pinyin": "shùn",
+    "finalSound": "un, ʊn, oʊn"
   },
   {
     "initialSound": "dʒ",
-    "finalSound": "ʊŋ",
-    "zi": "",
-    "pinyin": ""
+    "zi": "准",
+    "pinyin": "zhǔn",
+    "finalSound": "un, ʊn, oʊn"
   },
   {
     "initialSound": "tʃ",
-    "finalSound": "ʊŋ",
-    "zi": "",
-    "pinyin": ""
+    "zi": "春",
+    "pinyin": "chūn",
+    "finalSound": "un, ʊn, oʊn"
   },
   {
     "initialSound": "h",
-    "finalSound": "ʊŋ",
     "zi": "洪",
-    "pinyin": "hóng"
+    "pinyin": "hóng",
+    "finalSound": "un, ʊn, oʊn"
+  },
+  {
+    "initialSound": "h",
+    "zi": "洪",
+    "pinyin": "hóng",
+    "finalSound": "un, ʊn, oʊn"
+  },
+  {
+    "initialSound": "m",
+    "zi": "蒙",
+    "pinyin": "mēng",
+    "finalSound": "un, ʊn, oʊn"
+  },
+  {
+    "initialSound": "m",
+    "zi": "蒙",
+    "pinyin": "mēng",
+    "finalSound": "un, ʊn, oʊn"
+  },
+  {
+    "initialSound": "n",
+    "zi": "农",
+    "pinyin": "nóng",
+    "finalSound": "un, ʊn, oʊn"
+  },
+  {
+    "initialSound": "n",
+    "zi": "农",
+    "pinyin": "nóng",
+    "finalSound": "un, ʊn, oʊn"
+  },
+  {
+    "initialSound": "l",
+    "zi": "伦",
+    "pinyin": "lún",
+    "finalSound": "un, ʊn, oʊn"
+  },
+  {
+    "initialSound": "r*",
+    "zi": "伦",
+    "pinyin": "lún",
+    "finalSound": "un, ʊn, oʊn"
+  },
+  {
+    "initialSound": "j",
+    "zi": "云",
+    "pinyin": "yún",
+    "finalSound": "un, ʊn, oʊn"
+  },
+  {
+    "initialSound": "ɡʷ",
+    "zi": "",
+    "pinyin": "",
+    "finalSound": "un, ʊn, oʊn"
+  },
+  {
+    "initialSound": "kʷ",
+    "zi": "",
+    "pinyin": "",
+    "finalSound": "un, ʊn, oʊn"
+  },
+  {
+    "initialSound": "hʷ",
+    "zi": "",
+    "pinyin": "",
+    "finalSound": "un, ʊn, oʊn"
+  },
+  {
+    "initialSound": "-",
+    "zi": "翁 / 宏",
+    "pinyin": "wēng, / ,hóng",
+    "finalSound": "ʊŋ"
+  },
+  {
+    "initialSound": "b",
+    "zi": "邦",
+    "pinyin": "bāng",
+    "finalSound": "ʊŋ"
+  },
+  {
+    "initialSound": "p",
+    "zi": "东",
+    "pinyin": "dōng",
+    "finalSound": "ʊŋ"
+  },
+  {
+    "initialSound": "d",
+    "zi": "孔",
+    "pinyin": "kǒng",
+    "finalSound": "ʊŋ"
+  },
+  {
+    "initialSound": "t",
+    "zi": "翁",
+    "pinyin": "wēng",
+    "finalSound": "ʊŋ"
+  },
+  {
+    "initialSound": "g",
+    "zi": "翁",
+    "pinyin": "wēng",
+    "finalSound": "ʊŋ"
+  },
+  {
+    "initialSound": "k",
+    "zi": "宗",
+    "pinyin": "zōng",
+    "finalSound": "ʊŋ"
+  },
+  {
+    "initialSound": "v",
+    "zi": "松",
+    "pinyin": "sōng",
+    "finalSound": "ʊŋ"
+  },
+  {
+    "initialSound": "w",
+    "zi": "容",
+    "pinyin": "róng",
+    "finalSound": "ʊŋ"
+  },
+  {
+    "initialSound": "f",
+    "zi": "雄",
+    "pinyin": "xióng",
+    "finalSound": "ʊŋ"
+  },
+  {
+    "initialSound": "z / dz",
+    "zi": "琼",
+    "pinyin": "qióng",
+    "finalSound": "ʊŋ"
+  },
+  {
+    "initialSound": "ts",
+    "zi": "琼",
+    "pinyin": "qióng",
+    "finalSound": "ʊŋ"
+  },
+  {
+    "initialSound": "s / ð / θ",
+    "zi": "隆",
+    "pinyin": "lóng",
+    "finalSound": "ʊŋ"
+  },
+  {
+    "initialSound": "ʒ",
+    "zi": "龙",
+    "pinyin": "lóng",
+    "finalSound": "ʊŋ"
+  },
+  {
+    "initialSound": "ʃ",
+    "zi": "永",
+    "pinyin": "yǒng",
+    "finalSound": "ʊŋ"
+  },
+  {
+    "initialSound": "dʒ",
+    "zi": "",
+    "pinyin": "",
+    "finalSound": "ʊŋ"
+  },
+  {
+    "initialSound": "tʃ",
+    "zi": "",
+    "pinyin": "",
+    "finalSound": "ʊŋ"
+  },
+  {
+    "initialSound": "h",
+    "zi": "洪",
+    "pinyin": "hóng",
+    "finalSound": "ʊŋ"
   }
 ]

@@ -4,17 +4,31 @@ const path = require('path')
 const readFileAsync = promisify(fs.readFile)
 
 class ChineseSound {
+  readonly initialSound: string;
+  private _finalSound: string;
+  public pendingFinalSound: number;
+  readonly zi: string;
+  readonly pinyin: string;
+
   constructor(initialSound: string, finalSound: string, zi: string, pinyin: string) {
     this.initialSound = initialSound;
-    this.finalSound = finalSound;
+    this._finalSound = finalSound;
     this.zi = zi;
-    this.pinyin = pinyin;        
-  }
+    this.pinyin = pinyin;
 
-  initialSound: string;
-  finalSound: string;
-  zi: string;
-  pinyin: string;
+    Object.defineProperties(this, { //done this way instead of normal get/set so finalSound, not _finalSound written in JSON.stringify
+        _finalSound: {writable: true, enumerable: false},
+        finalSound: {
+            get: function () { return this._finalSound; },
+            set: function (finalSound: string) { 
+              if (!this.pendingFinalSound) { console.warn(`Setting finalSound for ${this.zi} without pendingFinalSound! Use constructor instead.`); }
+              if (this._finalSound !== null) { console.warn(`Overwriting finalSound ${this._finalSound} for ${this.zi} with ${newFinalSound}.`); }
+              this._finalSound = finalSound; 
+            },
+            enumerable: true
+        }
+    });
+  }
 }
 
 const _b_: ChineseSound = new ChineseSound('b', null, '布', 'bù');

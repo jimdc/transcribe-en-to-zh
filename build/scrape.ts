@@ -22,11 +22,12 @@ rp(options)
     let realRowIndex: number = 0;
     let realColumnIndex: number = 0;
 
+    let loopRowOffset: number = 0;
     chineseTable.each(function(loopRowIndex, rowElement) {
 
       if (loopRowIndex === 0) return; //like 'continue' but for each; not really a loop
-      let loopColumnOffset: number = 0;
 
+      let loopColumnOffset: number = 0;
       $(this).children().each(function(loopColumnIndex, columnElement) {
         const textNoNewline = $(this).text().trim().replace(/[\r\n]+/g," ");
 
@@ -37,9 +38,18 @@ rp(options)
           console.log(`Pushing ${textNoNewline} to initials`);
           initials.push(textNoNewline);
         } else {
-          //rowspan x > 1 means: "create x sounds with the same initial, different finals": trickier.
+          //rowspan x > 1 means: "create x sounds with the same initial, different finals"
           const rowspan: number = $(this).attr("rowspan"); // e.g. 南 rowspan2: nʌn,nʌŋ 
-          if (rowspan) console.log(`${textNoNewline} has rowspan ${rowspan}`);
+          if (rowspan) {
+            console.log(`${textNoNewline} has rowspan, so creating ${rowspan} objects`);
+
+            //The finals array hasn't been built yet, so we just put in the desired index for later.
+            for(let i = 0; i < rowspan-1; i++) {
+              let newSound: ChineseSound = new ChineseSound(initials[loopColumnIndex+loopColumnOffset], null, textNoNewline, pinyin(textNoNewline).join());
+              newSound.pendingFinalSound = i + (loopRowIndex-2); 
+              soundObjects.push(newSound);
+            }
+          }
 
           //colspan x > 1 means: "create x sounds with the same final, different initials"
           const colspan: number = $(this).attr("colspan"); // e.g. 夫/弗 colspan3: v-,w-,f-
@@ -60,8 +70,6 @@ rp(options)
             loopColumnOffset--;
 
             console.log(`${textNoNewline} has colspan; creating ${colspan} objects with initials ${differentInitials.join(",")}`);
-            soundSentence.push(textNoNewline);
-            return; //avoid realColumnIndex++ since we already did it in the loop
           } else {
             soundObjects.push(new ChineseSound(initials[loopColumnIndex+loopColumnOffset] 
 ,             finals[loopRowIndex-2] //First row is title, second are initials
@@ -71,16 +79,23 @@ rp(options)
           soundSentence.push(textNoNewline);
         }
 
-        realColumnIndex++;
       });
 
-      console.log(`sS=${soundSentence.join()}`); //loopColumnIndex not accessible from here
+      console.log(soundSentence.join());
       soundSentence = [];
-      realRowIndex++;
     });
 
     console.log("initials: " + initials.join());
     console.log("finals: " + finals.join());
+
+    soundObjects.forEach(function(element: ChineseSound) {
+      if (element.pendingFinalSound) {
+        const resolvedFinalSound = finals[element.pendingFinalSound];
+        console.log(`Found pendingFinalSound idx ${element.pendingFinalSound} for ${element.zi}, resolving to ${resolvedFinalSound}`);
+        element.finalSound = resolvedFinalSound;
+        element.pendingFinalSound = undefined; // so it doesn't show up in the JSON file
+      }
+    });
 
     const stringified = JSON.stringify(soundObjects, null, 2);
     fs.writeFile('zh-rules.json', stringified, (err) => {
