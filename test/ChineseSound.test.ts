@@ -36,8 +36,8 @@ describe('findChineseSounds test', () => {
   });
 
   it('It finds the two sounds right after shang4', () => {
-    const resultAen = chineseSound.find('詹');
-    const resultAhn = chineseSound.find('章');
+    const resultAen = chineseSound.find('詹'); //zhan1
+    const resultAhn = chineseSound.find('章'); //zhang1
     expect(resultAen.initialSound).to.equal('dʒ');
     expect(resultAhn.initialSound).to.equal('dʒ');
     expect(resultAen.initialSound).to.equal('æn, ʌn, æŋ');
