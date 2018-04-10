@@ -1,6 +1,7 @@
 const {promisify} = require('util')
 const fs = require('fs')
 const path = require('path')
+const pinyin = require('pinyin');
 const readFileAsync = promisify(fs.readFile)
 
 class ChineseSound {

@@ -23,6 +23,8 @@ rp(options)
     let realColumnIndex: number = 0;
 
     let loopRowOffset: number = 0;
+    let loopRowOffsetAfter: number = 0; //apply the loopRowOffset after reaching this column/initial
+
     chineseTable.each(function(loopRowIndex, rowElement) {
 
       if (loopRowIndex === 0) return; //like 'continue' but for each; not really a loop
@@ -38,6 +40,7 @@ rp(options)
           console.log(`Pushing ${textNoNewline} to initials`);
           initials.push(textNoNewline);
         } else {
+          let initialsIndex = loopColumnIndex+loopColumnOffset;
           //rowspan x > 1 means: "create x sounds with the same initial, different finals"
           const rowspan: number = $(this).attr("rowspan"); // e.g. 南 rowspan2: nʌn,nʌŋ 
           if (rowspan) {
@@ -45,12 +48,17 @@ rp(options)
 
             //The finals array hasn't been built yet, so we just put in the desired index for later.
             for(let i = 0; i < rowspan-1; i++) {
-              let newSound: ChineseSound = new ChineseSound(initials[loopColumnIndex+loopColumnOffset], null, textNoNewline, pinyin(textNoNewline).join());
-              newSound.pendingFinalSound = i + (loopRowIndex-2); 
+              let newSound: ChineseSound = new ChineseSound(initials[initialsIndex], null, textNoNewline, pinyin(textNoNewline).join());
+              newSound.pendingFinalSound = i + (loopRowIndex-2); // If you change finalsIndex, you might have to change this
               soundObjects.push(newSound);
             }
+
+            loopRowOffset = rowspan;
+            loopRowOffsetAfter = initialsIndex;
+            console.log(`Set loopRowOffset of ${loopRowOffset}; loopRowOffsetAfter = ${loopRowOffsetAfter}`);
           }
 
+          let finalsIndex = loopRowIndex-2; //First row is title, second is for initials
           //colspan x > 1 means: "create x sounds with the same final, different initials"
           const colspan: number = $(this).attr("colspan"); // e.g. 夫/弗 colspan3: v-,w-,f-
           if (colspan) {
@@ -60,20 +68,15 @@ rp(options)
             
             for(let i = 0; i < colspan; i++) {
               differentInitials.push(initials[loopColumnIndex+loopColumnOffset]);
-
-              soundObjects.push(new ChineseSound(initials[loopColumnIndex+loopColumnOffset]
-,             finals[loopRowIndex-2] //as usual
-,             textNoNewline, pinyin(textNoNewline).join()));
-
+              soundObjects.push(new ChineseSound(initials[initialsIndex], finals[finalsIndex], textNoNewline, pinyin(textNoNewline).join()));
               loopColumnOffset++; //to align it properly
             }
+
             loopColumnOffset--;
 
             console.log(`${textNoNewline} has colspan; creating ${colspan} objects with initials ${differentInitials.join(",")}`);
-          } else {
-            soundObjects.push(new ChineseSound(initials[loopColumnIndex+loopColumnOffset] 
-,             finals[loopRowIndex-2] //First row is title, second are initials
-,             textNoNewline, pinyin(textNoNewline).join()));
+          } else { //does not have colspan. It's the default case for if there is no special rowspan either
+            soundObjects.push(new ChineseSound(initials[initialsIndex], finals[finalsIndex], textNoNewline, pinyin(textNoNewline).join()));
           }
 
           soundSentence.push(textNoNewline);

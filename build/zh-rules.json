@@ -48,13 +48,13 @@
     "finalSound": "-"
   },
   {
-    "initialSound": "w",
+    "initialSound": "v",
     "zi": "夫 / 弗",
     "pinyin": "fū, / ,fú",
     "finalSound": "-"
   },
   {
-    "initialSound": "f",
+    "initialSound": "v",
     "zi": "夫 / 弗",
     "pinyin": "fū, / ,fú",
     "finalSound": "-"
@@ -96,7 +96,7 @@
     "finalSound": "-"
   },
   {
-    "initialSound": "tʃ",
+    "initialSound": "dʒ",
     "zi": "奇",
     "pinyin": "qí",
     "finalSound": "-"
@@ -126,7 +126,7 @@
     "finalSound": "-"
   },
   {
-    "initialSound": "r*",
+    "initialSound": "l",
     "zi": "尔",
     "pinyin": "ěr",
     "finalSound": "-"
@@ -204,7 +204,7 @@
     "finalSound": "ɑː, æ, ʌ"
   },
   {
-    "initialSound": "w",
+    "initialSound": "v",
     "zi": "瓦 / 娃",
     "pinyin": "wǎ, / ,wá",
     "finalSound": "ɑː, æ, ʌ"
@@ -282,7 +282,7 @@
     "finalSound": "ɑː, æ, ʌ"
   },
   {
-    "initialSound": "r*",
+    "initialSound": "l",
     "zi": "拉",
     "pinyin": "lā",
     "finalSound": "ɑː, æ, ʌ"
@@ -360,7 +360,7 @@
     "finalSound": "ɛ, eɪ"
   },
   {
-    "initialSound": "w",
+    "initialSound": "v",
     "zi": "韦",
     "pinyin": "wéi",
     "finalSound": "ɛ, eɪ"
@@ -594,7 +594,7 @@
     "finalSound": "ɜ, ə"
   },
   {
-    "initialSound": "r*",
+    "initialSound": "l",
     "zi": "勒",
     "pinyin": "lè",
     "finalSound": "ɜ, ə"
@@ -690,7 +690,7 @@
     "finalSound": "iː, ɪ"
   },
   {
-    "initialSound": "ts",
+    "initialSound": "z / dz",
     "zi": "齐",
     "pinyin": "qí",
     "finalSound": "iː, ɪ"
@@ -828,7 +828,7 @@
     "finalSound": "ɒ, ɔː, oʊ"
   },
   {
-    "initialSound": "w",
+    "initialSound": "v",
     "zi": "沃",
     "pinyin": "wò",
     "finalSound": "ɒ, ɔː, oʊ"
@@ -876,7 +876,7 @@
     "finalSound": "ɒ, ɔː, oʊ"
   },
   {
-    "initialSound": "tʃ",
+    "initialSound": "dʒ",
     "zi": "乔",
     "pinyin": "qiáo",
     "finalSound": "ɒ, ɔː, oʊ"
@@ -1452,7 +1452,7 @@
     "finalSound": "aʊ"
   },
   {
-    "initialSound": "w",
+    "initialSound": "v",
     "zi": "沃",
     "pinyin": "wò",
     "finalSound": "aʊ"
@@ -1530,7 +1530,7 @@
     "finalSound": "aʊ"
   },
   {
-    "initialSound": "r*",
+    "initialSound": "l",
     "zi": "劳",
     "pinyin": "láo",
     "finalSound": "aʊ"
@@ -1608,7 +1608,7 @@
     "finalSound": "æn, ʌn, æŋ"
   },
   {
-    "initialSound": "w",
+    "initialSound": "v",
     "zi": "万",
     "pinyin": "wàn",
     "finalSound": "æn, ʌn, æŋ"
@@ -1698,7 +1698,7 @@
     "finalSound": "æn, ʌn, æŋ"
   },
   {
-    "initialSound": "r*",
+    "initialSound": "l",
     "zi": "兰",
     "pinyin": "lán",
     "finalSound": "æn, ʌn, æŋ"
@@ -1782,7 +1782,7 @@
     "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ"
   },
   {
-    "initialSound": "w",
+    "initialSound": "v",
     "zi": "旺",
     "pinyin": "wàng",
     "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ"
@@ -1848,7 +1848,7 @@
     "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ"
   },
   {
-    "initialSound": "n",
+    "initialSound": "m",
     "zi": "朗",
     "pinyin": "lǎng",
     "finalSound": "ɑn, aʊn, ʌŋ, ɔn, ɒn, ɒŋ"
@@ -1920,7 +1920,7 @@
     "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ"
   },
   {
-    "initialSound": "w",
+    "initialSound": "v",
     "zi": "文",
     "pinyin": "wén",
     "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ"
@@ -1998,7 +1998,7 @@
     "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ"
   },
   {
-    "initialSound": "r*",
+    "initialSound": "l",
     "zi": "伦",
     "pinyin": "lún",
     "finalSound": "ɛn, ɛŋ, ɜn, ən, əŋ"
@@ -2088,7 +2088,7 @@
     "finalSound": "ɪn, in, ɪən, jən"
   },
   {
-    "initialSound": "k",
+    "initialSound": "g",
     "zi": "金",
     "pinyin": "jīn",
     "finalSound": "ɪn, in, ɪən, jən"
@@ -2106,7 +2106,7 @@
     "finalSound": "ɪn, in, ɪən, jən"
   },
   {
-    "initialSound": "w",
+    "initialSound": "v",
     "zi": "温",
     "pinyin": "wēn",
     "finalSound": "ɪn, in, ɪən, jən"
@@ -2214,7 +2214,7 @@
     "finalSound": "ɪn, in, ɪən, jən"
   },
   {
-    "initialSound": "r*",
+    "initialSound": "l",
     "zi": "林 / 琳",
     "pinyin": "lín, / ,lín",
     "finalSound": "ɪn, in, ɪən, jən"
@@ -2394,7 +2394,7 @@
     "finalSound": "un, ʊn, oʊn"
   },
   {
-    "initialSound": "w",
+    "initialSound": "v",
     "zi": "文",
     "pinyin": "wén",
     "finalSound": "un, ʊn, oʊn"
@@ -2502,7 +2502,7 @@
     "finalSound": "un, ʊn, oʊn"
   },
   {
-    "initialSound": "r*",
+    "initialSound": "l",
     "zi": "伦",
     "pinyin": "lún",
     "finalSound": "un, ʊn, oʊn"
@@ -2562,7 +2562,7 @@
     "finalSound": "ʊŋ"
   },
   {
-    "initialSound": "g",
+    "initialSound": "t",
     "zi": "翁",
     "pinyin": "wēng",
     "finalSound": "ʊŋ"
@@ -2598,7 +2598,7 @@
     "finalSound": "ʊŋ"
   },
   {
-    "initialSound": "ts",
+    "initialSound": "z / dz",
     "zi": "琼",
     "pinyin": "qióng",
     "finalSound": "ʊŋ"
